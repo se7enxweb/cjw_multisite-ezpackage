@@ -1,0 +1,41 @@
+<content-class is-container="true" always-available="false" sort-field="path" sort-order="1">
+  <serialized-name-list>a:2:{s:6:"ger-DE";s:24:"TMV Container Kategorien";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+  <identifier>tmv_container_categories</identifier>
+  <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+  <remote-id>cjw-starter-c-tmv_container_categories</remote-id>
+  <object-name-pattern>&lt;title&gt;</object-name-pattern>
+  <url-alias-pattern/>
+  <remote>
+    <site-url>http://example.com/</site-url>
+    <url>http://example.com/class/view/149</url>
+    <groups>
+      <group id="11" name="TMV"/>
+    </groups>
+    <id>149</id>
+    <created>1622207329</created>
+    <modified>1622207329</modified>
+    <creator>
+      <user-id>455</user-id>
+    </creator>
+    <modifier>
+      <user-id>455</user-id>
+    </modifier>
+  </remote>
+  <ezcontentclass-attribute:attributes xmlns:ezcontentclass-attribute="http://ezpublish/contentclassattribute">
+    <attribute datatype="ezstring" required="true" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1418</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:5:"Titel";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>title</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category/>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>1</placement>
+      <datatype-parameters>
+        <max-length>0</max-length>
+        <default-string/>
+      </datatype-parameters>
+    </attribute>
+  </ezcontentclass-attribute:attributes>
+</content-class>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:id="1401" name="Tatjana Karpouk" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="45" ezremote:published="Wed, 02 Jun 2021 14:41:41 GMT" ezremote:modified="Wed, 02 Jun 2021 14:41:41 GMT" remote_id="cjw-starter-o-1401" class_remote_id="5af75d89cc442b764b791d18caba56f8" ezremote:class_identifier="ng_news" ezremote:always_available="0" initial_language="ger-DE">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" active_version="2">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:version="2" ezremote:status="1" ezremote:created="Wed, 02 Jun 2021 14:41:41 GMT" ezremote:modified="Wed, 02 Jun 2021 14:41:41 GMT" initial_language="ger-DE">
+      <ezobject:object-translation xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" language="ger-DE" object_name="Tatjana Karpouk">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14205" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Tatjana Karpouk</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14206" ezremote:identifier="teaser_title" name="Teaser title" type="ezstring">
+          <text>Tatjana Karpouk</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14207" ezremote:identifier="authors" name="Author" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14208" ezremote:identifier="publish_date" name="Publish date" type="ezdatetime">
+          <date_time>Wed, 13 Oct 2021 17:00:00 GMT</date_time>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14209" ezremote:identifier="headline" name="Headline" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14210" ezremote:identifier="teaser_image" name="Teaser image" type="ezimage" image-file-key="ac97424a0572badfc405d24e8e77eda6" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14211" ezremote:identifier="teaser_intro" name="Teaser intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>
+              <strong>"Russische Impressionen"</strong>
+            </paragraph>
+            <paragraph>
+              <custom name="sup">Soloklavierkonzert</custom>
+            </paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14212" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="6e1be708d1ef6b2af50e854797523ca2" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14213" ezremote:identifier="full_intro" name="Intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Mit ihrem Soloprogramm möchte Tatjana Karpouk die wechselseitigen musikalischen Inspirationen zwischen verschiedenen russischen Komponisten aufzeigen und dem Publikum auch weniger bekannte russische Komponisten und ihre Werke näherbringen.</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:id="14214" ezremote:identifier="body" name="Body text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Die Arbeit an diesem sehr abwechslungsreichen Programm beschreibt die aus Weißrussland stammende Pianistin, als eine ganz besondere Erfahrung und Motivation: “Ich hoffe, dass meine eigene Begeisterung und musikalische Inspiration die Menschen bei meinen Konzerten im Herzen berührt und ihnen ganz neue, unvergessliche Einblicke in die russische Seele und Musik bietet“.</paragraph>
+            <paragraph>Michail Glinka gilt als Schöpfer einer eigenständigen klassischen Musik Russlands. Aufgrund seines prägenden Einflusses wird er oft „Der Vater russischer Musik“ genannt. Seine Romanze „Venezianische Nacht“ veranlasste Anatol Liadov einfallsreiche Variationen darüber zu komponieren, und Mili Balakirew schrieb die Fantasie über sein berühmtes Lied „Die Lerche“.</paragraph>
+            <paragraph>Nach Glinkas Ausspruch „Es ist das Volk, das die Musik schafft. Wir Musiker arrangieren sie nur“ ließ sich Peter Tschajkowsky von russischen Liedern und Tänzen zu Tänzen zu seiner „Doumka“ mit dem Untertitel „Szenen eines Dorflebens“ inspirieren.</paragraph>
+            <paragraph>Der russische Komponist Anton Arensky, ein Geheimtipp unter Musikern, ist bislang bei den Konzertbesuchern fast gänzlich unbeachtet geblieben. Zunächst beeinflusst von seinem Lehrer Rimski-Korsakov, unterlag seine Musik prägenden Einflüssen Peter Tschaikowskys. In seiner Suite „Prés de la Mer“ (In der Nähe des Meeres) werden die unterschiedlichsten Stimmungen, vom ruhigen, verträumten See bis zu dem wilden Spiel der Wellen, mit einfallsreichen Klängen gemalt.</paragraph>
+            <paragraph>Für den ukrainischen Komponisten Igor Shamo war es die Malerei, die ihn zu seiner Suite „Die Bilder russischer Maler“ anregte. Sie tragen die Titel: „Trojka“, „Sommerabend“, „Morgen im Wald“, „Die kleine Birke“, „Auf dem Fest“. Der Charme dieser Kompositionen liegt in den starken Stimmungswechseln zwischen melancholischer Erinnerung und explodierender Lebensfreude. Gerade im lyrischen Stücken sind farbliche Abstufungen wie bei einem Gemälde erforderlich. Es sind im weitesten Sinne „Klangbilder“.</paragraph>
+            <paragraph>Abgerundet wird das Konzertprogramm von weniger bekannten, aber unglaublich fantasiereichen und originellen Stücke von Skriabin, Projkofjew und Medtner</paragraph>
+            <paragraph>
+              <strong>Datum/Uhrzeit:</strong>
+            </paragraph>
+            <paragraph xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+              <table class="table-striped" border="0" width="40%" custom:caption="">
+                <tr>
+                  <td>
+                    <paragraph>Mittwoch, 13. Oktober 2021</paragraph>
+                  </td>
+                  <td>
+                    <paragraph>19:00 Uhr*</paragraph>
+                  </td>
+                </tr>
+              </table>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>Veranstaltungsort:</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Darßer Arche</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>Kategorie:</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Konzert</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>Preise:</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">ohne Kurkarte: 13,20 EURO </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">für Kurkarteninhaber: 12,00 EURO</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Kinder: 5,00 EURO</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>Reservierung &amp; Anmeldung:</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Kurverwaltung Wieck und Kurverwaltung Born</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/"><strong>Ausrichter der Veranstaltung</strong> und inhaltlich Verantwortlicher der hier wiedergegebenen Veranstaltungsinformationen:</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Kur und Tourist GmbH Darß</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Bliesenraderweg 2</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">18375 Wieck a. Darß</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Tel: 038233 - 201</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">E-Mail: wieck@darss.org</line>
+            </paragraph>
+            <paragraph>
+              <custom name="sub">*Die Veranstaltung findet unter Corona - Schutzbestimmungen statt, d.h., die Teilnehmer geben zu Beginn ihre Kontaktdaten bekannt, halten erforderlichen Abstand und führen einen Mundschutz für gegebene Situationen mit.</custom>
+            </paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14215" ezremote:identifier="location" name="Location" type="ezgmaplocation" ezgl_has_content="1">
+          <latitude>54.4095</latitude>
+          <longitude>12.581394</longitude>
+          <address/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14216" ezremote:identifier="related_content" name="Related content" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14217" ezremote:identifier="related_multimedia" name="Related multimedia items" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14218" ezremote:identifier="main_topic" name="Main topic" type="eztags">
+          <id-string/>
+          <keyword-string/>
+          <parent-string/>
+          <locale-string/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14219" ezremote:identifier="tags" name="Tags" type="eztags">
+          <id-string/>
+          <keyword-string/>
+          <parent-string/>
+          <locale-string/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14220" ezremote:identifier="sponsored_content_disclosure" name="Sponsored content disclosure" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14221" ezremote:identifier="metadata" name="Meta data" type="xrowmetadata">
+          <MetaData>
+            <title/>
+            <keywords/>
+            <description/>
+            <canonical_url/>
+            <priority/>
+            <change>daily</change>
+            <sitemap_use>1</sitemap_use>
+            <og_image/>
+            <og_image_width/>
+            <og_image_height/>
+            <og_image_alt/>
+            <og_image_type/>
+          </MetaData>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14222" ezremote:identifier="css_class" name="CSS class" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14223" ezremote:identifier="url_text" name="URL text" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-1483" name="Tatjana Karpouk" node-id="1493" remote-id="cjw-starter-n-1493" sort-field="published" sort-order="0" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

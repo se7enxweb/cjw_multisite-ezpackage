@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="190" name="Showcase" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="48" ezremote:published="Fri, 29 Nov 2019 06:59:31 GMT" ezremote:modified="Wed, 12 May 2021 07:32:04 GMT" remote_id="cjw-starter-o-190" class_remote_id="035570b01e5fb0f99de7be24b3cc8336" ezremote:class_identifier="ng_landing_page" ezremote:always_available="0" initial_language="eng-US">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="2">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="2" ezremote:status="1" ezremote:created="Wed, 12 May 2021 07:31:55 GMT" ezremote:modified="Wed, 12 May 2021 07:32:04 GMT" initial_language="ger-DE">
+      <ezobject:object-translation language="eng-US" object_name="Showcase">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2339" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Showcase</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2340" ezremote:identifier="teaser_title" name="Teaser title" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2342" ezremote:identifier="teaser_intro" name="Teaser intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Showcase for all view types</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="3081" ezremote:identifier="image" name="Vorschaubild" type="ezimage" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6261" ezremote:identifier="full_intro" name="Introtext" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2343" ezremote:identifier="css_class" name="CSS class" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2345" ezremote:identifier="tags" name="Tags" type="eztags">
+          <id-string/>
+          <keyword-string/>
+          <parent-string/>
+          <locale-string/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2344" ezremote:identifier="url_text" name="URL text" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2346" ezremote:identifier="internal_redirect" name="Internal redirect" type="ezobjectrelation"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2347" ezremote:identifier="external_redirect" name="External redirect" type="ezurl"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2341" ezremote:identifier="metadata" name="Meta data" type="xrowmetadata">
+          <MetaData>
+            <title/>
+            <keywords/>
+            <description/>
+            <canonical_url/>
+            <priority/>
+            <change>daily</change>
+            <sitemap_use>1</sitemap_use>
+            <og_image/>
+            <og_image_width/>
+            <og_image_height/>
+            <og_image_alt/>
+            <og_image_type/>
+          </MetaData>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:object-translation language="ger-DE" object_name="Showcase">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13755" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Showcase</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13756" ezremote:identifier="teaser_title" name="Teaser title" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13758" ezremote:identifier="teaser_intro" name="Teaser intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Showcase for all view types</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13765" ezremote:identifier="image" name="Vorschaubild" type="ezimage" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13759" ezremote:identifier="full_intro" name="Introtext" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13760" ezremote:identifier="css_class" name="CSS class" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13762" ezremote:identifier="tags" name="Tags" type="eztags">
+          <id-string/>
+          <keyword-string/>
+          <parent-string/>
+          <locale-string/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13761" ezremote:identifier="url_text" name="URL text" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13763" ezremote:identifier="internal_redirect" name="Internal redirect" type="ezobjectrelation"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13764" ezremote:identifier="external_redirect" name="External redirect" type="ezurl"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13757" ezremote:identifier="metadata" name="Meta data" type="xrowmetadata">
+          <MetaData>
+            <title/>
+            <keywords/>
+            <description/>
+            <canonical_url/>
+            <priority/>
+            <change>daily</change>
+            <sitemap_use>1</sitemap_use>
+            <og_image/>
+            <og_image_width/>
+            <og_image_height/>
+            <og_image_alt/>
+            <og_image_type/>
+          </MetaData>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-root" name="Showcase" node-id="176" remote-id="cjw-starter-n-176" sort-field="priority" sort-order="1" priority="100"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

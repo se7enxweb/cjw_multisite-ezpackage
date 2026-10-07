@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:id="710" name="Startseite" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="145" ezremote:published="Tue, 05 May 2020 11:10:04 GMT" ezremote:modified="Fri, 15 Oct 2021 06:16:33 GMT" remote_id="cjw-starter-o-710" class_remote_id="aff5987579ece42eae5a5ed13092a917" ezremote:class_identifier="ng_frontpage" ezremote:always_available="0" initial_language="ger-DE">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" active_version="28">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:version="28" ezremote:status="1" ezremote:created="Fri, 15 Oct 2021 06:15:27 GMT" ezremote:modified="Fri, 15 Oct 2021 06:16:33 GMT" initial_language="ger-DE">
+      <ezobject:object-translation xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" language="ger-DE" object_name="Startseite">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6339" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>JAC Example - Startseite</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6340" ezremote:identifier="teaser_title" name="Teaser title" type="ezstring">
+          <text>Startseite</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:id="6343" ezremote:identifier="teaser_intro" name="Teaser intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>In den letzten Jahren hat sich in Stralsund viel verändert</paragraph>
+            <paragraph xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+              <custom name="Ausklappbarer_Abschnitt_mobil" custom:Name="Weiterlesen ...">
+                <paragraph>Stralsund und Umgebung - Segeln, Angeln, Wandern, Einkaufen ...</paragraph>
+              </custom>
+            </paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6351" ezremote:identifier="image" name="Vorschaubild" type="ezimage" image-file-key="48f365f7c90756b2fac1da0a5724f60c" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13980" ezremote:identifier="full_intro" name="Introtext" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6346" ezremote:identifier="tags" name="Tags" type="eztags" cjw-tag-remote-ids="cjw-starter-t-4">
+          <id-string>4</id-string>
+          <keyword-string>Urlaub</keyword-string>
+          <parent-string>0</parent-string>
+          <locale-string>ger-DE</locale-string>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6342" ezremote:identifier="metadata" name="Meta data" type="xrowmetadata">
+          <MetaData>
+            <title>Jac Example – CMS Demo Seite mit Exponential Layouts</title>
+            <keywords>CMS,Demo,Exponential Layout,JAC Systeme,Ibexa,eZ Platform</keywords>
+            <description>Demoseite mit Exponential Layouts</description>
+            <canonical_url/>
+            <priority/>
+            <change>daily</change>
+            <sitemap_use>1</sitemap_use>
+            <og_image/>
+            <og_image_width/>
+            <og_image_height/>
+            <og_image_alt/>
+            <og_image_type/>
+          </MetaData>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-root" name="Startseite" node-id="779" remote-id="cjw-starter-n-779" sort-field="priority" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

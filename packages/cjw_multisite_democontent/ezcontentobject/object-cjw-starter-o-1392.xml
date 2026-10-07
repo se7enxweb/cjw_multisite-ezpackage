@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="1392" name="TMV" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="150" ezremote:published="Fri, 28 May 2021 13:13:30 GMT" ezremote:modified="Fri, 28 May 2021 13:13:55 GMT" remote_id="cjw-starter-o-1392" class_remote_id="cjw-starter-c-tmv_container" ezremote:class_identifier="tmv_container" ezremote:always_available="0" initial_language="ger-DE">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="2">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="2" ezremote:status="1" ezremote:created="Fri, 28 May 2021 13:13:40 GMT" ezremote:modified="Fri, 28 May 2021 13:13:55 GMT" initial_language="ger-DE">
+      <ezobject:object-translation language="ger-DE" object_name="TMV">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14044" ezremote:identifier="title" name="Titel" type="ezstring">
+          <text>TMV</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14045" ezremote:identifier="locations" name="Orte" type="eztext">
+          <text>1892|Waren (Müritz)&#13;
+738|Bad Doberan&#13;
+68|Bad Sülze&#13;
+604|Graal-Müritz&#13;
+150|Zingst&#13;
+1197|Boltenhagen&#13;
+3623|Boltenhagen&#13;
+3906|Boltenhagen&#13;
+745|Heiligendamm&#13;
+525|Ahlbeck&#13;
+3382|Ahlbeck&#13;
+538|Heringsdorf&#13;
+542|Bansin&#13;
+482|Göhren&#13;
+2501|Göhren&#13;
+2654|Göhren&#13;
+2468|Feldberg&#13;
+132|Wustrow&#13;
+2331|Wustrow&#13;
+2462|Wustrow&#13;
+494|Sellin&#13;
+551|Sellin&#13;
+1363|Sellin&#13;
+3716|Lubmin&#13;
+152|Prerow&#13;
+358|Altefähr&#13;
+496|Binz&#13;
+3381|Ueckermünde&#13;
+562|Zinnowitz&#13;
+598|Warnemünde&#13;
+789|Rerik&#13;
+564|Koserow&#13;
+123|Ahrenshoop&#13;
+770|Kühlungsborn&#13;
+2029|Krakow am See&#13;
+232|Sassnitz&#13;
+17|Ribnitz-Damgarten&#13;
+133|Barth&#13;
+1281|Zierow</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14046" ezremote:identifier="limit_import_per_cronjob" name="Maximale Anzahl an Veranstaltungen die je Importprozess importiert werden können" type="ezstring">
+          <text>100</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14047" ezremote:identifier="limit_events" name="Maximale Anzahl an Veranstaltungen, die gleichzeitig im System vorgehalten werden sollen." type="ezstring">
+          <text>1000</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14048" ezremote:identifier="page_limit" name="Maximale Anzahl an Veranstaltungen auf der Ergebnisseite." type="ezstring">
+          <text>20</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14049" ezremote:identifier="datetime_last_update" name="Zeitpunkt: letzte Aktualisierung" type="ezdatetime"/>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-1483" name="TMV" node-id="1484" remote-id="cjw-starter-n-1484" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

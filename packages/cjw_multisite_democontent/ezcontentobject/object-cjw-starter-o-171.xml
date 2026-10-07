@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="171" name="Images" ezremote:section_id="3" ezremote:owner_id="14" ezremote:class_id="49" ezremote:published="Sat, 15 Nov 2014 20:04:48 GMT" ezremote:modified="Tue, 11 May 2021 13:19:12 GMT" remote_id="cjw-starter-o-171" class_remote_id="d16e2ce1aa04a16963b9594c634711ad" ezremote:class_identifier="ng_container" ezremote:always_available="1" initial_language="eng-US">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="2">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="2" ezremote:status="1" ezremote:created="Tue, 11 May 2021 13:19:05 GMT" ezremote:modified="Tue, 11 May 2021 13:19:12 GMT" initial_language="ger-DE">
+      <ezobject:object-translation language="eng-US" object_name="Images">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1376" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Images</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6601" ezremote:identifier="short_title" name="Teaser title" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6663" ezremote:identifier="teaser_intro" name="Teaser intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6632" ezremote:identifier="image" name="Image" type="ezimage" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6694" ezremote:identifier="full_intro" name="Intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:object-translation language="ger-DE" object_name="Bilder">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13725" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Bilder</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13726" ezremote:identifier="short_title" name="Teaser title" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13728" ezremote:identifier="teaser_intro" name="Teaser intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13727" ezremote:identifier="image" name="Image" type="ezimage" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13729" ezremote:identifier="full_intro" name="Intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-807" name="Images" node-id="51" remote-id="cjw-starter-n-51" sort-field="name" sort-order="1" priority="1"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

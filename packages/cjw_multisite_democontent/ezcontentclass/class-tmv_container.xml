@@ -1,0 +1,115 @@
+<content-class is-container="true" always-available="false" sort-field="path" sort-order="1">
+  <serialized-name-list>a:2:{s:6:"ger-DE";s:29:"TMV Container Veranstaltungen";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+  <identifier>tmv_container</identifier>
+  <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+  <remote-id>cjw-starter-c-tmv_container</remote-id>
+  <object-name-pattern>&lt;title&gt;</object-name-pattern>
+  <url-alias-pattern/>
+  <remote>
+    <site-url>http://example.com/</site-url>
+    <url>http://example.com/class/view/150</url>
+    <groups>
+      <group id="11" name="TMV"/>
+    </groups>
+    <id>150</id>
+    <created>1622207329</created>
+    <modified>1622207329</modified>
+    <creator>
+      <user-id>455</user-id>
+    </creator>
+    <modifier>
+      <user-id>455</user-id>
+    </modifier>
+  </remote>
+  <ezcontentclass-attribute:attributes xmlns:ezcontentclass-attribute="http://ezpublish/contentclassattribute">
+    <attribute datatype="ezstring" required="true" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1419</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:5:"Titel";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>title</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category/>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>1</placement>
+      <datatype-parameters>
+        <max-length>0</max-length>
+        <default-string/>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="eztext" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1420</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:4:"Orte";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>locations</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:89:"Veranstaltungen aus diesen Orten werden importiert. Ein Ort je Zeile: Format: id:Ortsname";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category/>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>2</placement>
+      <datatype-parameters>
+        <text-column-count>10</text-column-count>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezstring" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1421</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:81:"Maximale Anzahl an Veranstaltungen die je Importprozess importiert werden können";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>limit_import_per_cronjob</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category/>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>3</placement>
+      <datatype-parameters>
+        <max-length>0</max-length>
+        <default-string>100</default-string>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezstring" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1422</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:89:"Maximale Anzahl an Veranstaltungen, die gleichzeitig im System vorgehalten werden sollen.";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>limit_events</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category/>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>4</placement>
+      <datatype-parameters>
+        <max-length>0</max-length>
+        <default-string>1000</default-string>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezstring" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1423</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:57:"Maximale Anzahl an Veranstaltungen auf der Ergebnisseite.";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>page_limit</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category/>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>5</placement>
+      <datatype-parameters>
+        <max-length>0</max-length>
+        <default-string>20</default-string>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezdatetime" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1424</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:32:"Zeitpunkt: letzte Aktualisierung";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>datetime_last_update</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:94:"Updateskript, aktualisiert bereits importierte Events, die nach diesem Datum geändert wurden.";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category/>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>6</placement>
+      <datatype-parameters>
+        <default-value type="empty"/>
+        <use-seconds>0</use-seconds>
+      </datatype-parameters>
+    </attribute>
+  </ezcontentclass-attribute:attributes>
+</content-class>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="1393" name="Kategorien" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="149" ezremote:published="Fri, 28 May 2021 13:14:26 GMT" ezremote:modified="Fri, 28 May 2021 13:14:26 GMT" remote_id="cjw-starter-o-1393" class_remote_id="cjw-starter-c-tmv_container_categories" ezremote:class_identifier="tmv_container_categories" ezremote:always_available="0" initial_language="ger-DE">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Fri, 28 May 2021 13:14:20 GMT" ezremote:modified="Fri, 28 May 2021 13:14:26 GMT" initial_language="ger-DE">
+      <ezobject:object-translation language="ger-DE" object_name="Kategorien">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14050" ezremote:identifier="title" name="Titel" type="ezstring">
+          <text>Kategorien</text>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-1484" name="Kategorien" node-id="1485" remote-id="cjw-starter-n-1485" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

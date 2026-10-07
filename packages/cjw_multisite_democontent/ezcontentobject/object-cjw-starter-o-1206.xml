@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="1206" name="Veranstaltungen" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="51" ezremote:published="Wed, 18 Nov 2020 14:08:45 GMT" ezremote:modified="Fri, 11 Dec 2020 11:06:31 GMT" remote_id="cjw-starter-o-1206" class_remote_id="71f8cc283a01e33187637fc0740cbeaa" ezremote:class_identifier="ng_shortcut" ezremote:always_available="1" initial_language="ger-DE">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="3">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="3" ezremote:status="1" ezremote:created="Fri, 11 Dec 2020 11:06:12 GMT" ezremote:modified="Fri, 11 Dec 2020 11:06:31 GMT" initial_language="ger-DE">
+      <ezobject:object-translation language="ger-DE" object_name="Veranstaltungen">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10533" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Veranstaltungen</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10534" ezremote:identifier="teaser_title" name="Teaser title" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="15133" ezremote:identifier="icon_title" name="Icon in der Titelzeile" type="ezimage" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10536" ezremote:identifier="teaser_intro" name="Teaser intro" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10535" ezremote:identifier="image" name="Image" type="ezimage" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10540" ezremote:identifier="use_shortcut_name" name="Use shortcut name" type="ezboolean">
+          <value>0</value>
+        </ezobject:attribute>
+        <ezobject:attribute ezremote:identifier="link" name="Link" type="ngenhancedlink">
+          <text>{"type":"internal","id":0,"remote_id":"cjw-starter-o-1239","target":"link_new_tab"}</text>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-1292" name="Veranstaltungen" node-id="1294" remote-id="cjw-starter-n-1294" sort-field="path" sort-order="1" priority="10"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="173" name="Cookie Richtlinie - [COOKIE POLICY]" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="104" ezremote:published="Mon, 07 Oct 2019 09:28:45 GMT" ezremote:modified="Tue, 11 May 2021 10:12:32 GMT" remote_id="cjw-starter-o-173" class_remote_id="32d1ded9703a2611fd3f1ef7681bd3f6" ezremote:class_identifier="ng_cookie_policy" ezremote:always_available="1" initial_language="eng-US">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="5">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="5" ezremote:status="1" ezremote:created="Tue, 11 May 2021 10:04:40 GMT" ezremote:modified="Tue, 11 May 2021 10:12:32 GMT" initial_language="ger-DE">
+      <ezobject:object-translation language="eng-US" object_name="Netgen Media Site - [COOKIE POLICY]">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2115" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Exponential Media Site</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2116" ezremote:identifier="ribbon_heading" name="[Ribbon] heading" type="ezstring">
+          <text>This site uses cookies.</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2117" ezremote:identifier="ribbon_description" name="[Ribbon] Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>To make this website run properly and to improve your experience, we use cookies. For more detailed information, please check our <link node_remote_id="cjw-starter-n-root">Cookie Policy</link>.</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2118" ezremote:identifier="ribbon_settings_label" name="[Ribbon] Settings label" type="ezstring">
+          <text>Customize settings</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2119" ezremote:identifier="ribbon_button_accept_all_label" name="[Ribbon] Button label" type="ezstring">
+          <text>Got it!</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2120" ezremote:identifier="necessary_label" name="[Necessary] Label" type="ezstring">
+          <text>Necessary cookies</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2121" ezremote:identifier="necessary_description" name="[Necessary] Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Necessary cookies enable core functionality. The website cannot function properly without these cookies, and can only be disabled by changing your browser preferences.</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2122" ezremote:identifier="analytics_is_active" name="[Analytics] Is active" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2123" ezremote:identifier="analytics_default_state" name="[Analytics] Default state" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2124" ezremote:identifier="analytics_label" name="[Analytics] Label" type="ezstring">
+          <text>Analytics cookies</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2125" ezremote:identifier="analytics_description" name="[Analytics] Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Analytics cookies help us to improve our website by collecting and reporting information on its usage.</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2126" ezremote:identifier="analytics_on_accept" name="[Analytics] On accept" type="eztext">
+          <text>document.Cookie.setCookie( 'UseTracking', true, parseInt( 30 ) );</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2127" ezremote:identifier="analytics_on_revoke" name="[Analytics] On revoke" type="eztext">
+          <text>document.Cookie.setCookie( 'UseTracking', false, parseInt( 30 ) );</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2128" ezremote:identifier="marketing_is_active" name="[Marketing] Is active" type="ezboolean">
+          <value>0</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2129" ezremote:identifier="marketing_default_state" name="[Marketing] Default state" type="ezboolean">
+          <value>0</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2130" ezremote:identifier="marketing_label" name="[Marketing] Label" type="ezstring">
+          <text>Marketing cookies</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2131" ezremote:identifier="marketing_description" name="[Marketing] Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>We use marketing cookies to help us improve the relevancy of advertising campaigns you receive.</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2132" ezremote:identifier="marketing_on_accept" name="[Marketing] On accept" type="eztext">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2133" ezremote:identifier="marketing_on_revoke" name="[Marketing] On revoke" type="eztext">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2134" ezremote:identifier="social_sharing_is_active" name="[Social sharing] Is active" type="ezboolean">
+          <value>0</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2135" ezremote:identifier="social_sharing_default_state" name="[Social sharing] Default state" type="ezboolean">
+          <value>0</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2136" ezremote:identifier="social_sharing_label" name="[Social sharing] Label" type="ezstring">
+          <text>Social cookies</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2137" ezremote:identifier="social_sharing_description" name="[Social sharing] Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>We use some social sharing plugins, to allow you to share certain pages of our website on social media.</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2138" ezremote:identifier="social_sharing_on_accept" name="[Social sharing] On accept" type="eztext">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2139" ezremote:identifier="social_sharing_on_revoke" name="[Social sharing] On revoke" type="eztext">
+          <text/>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:object-translation language="ger-DE" object_name="Cookie Richtlinie - [COOKIE POLICY]">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10716" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Cookie Richtlinie</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10717" ezremote:identifier="ribbon_heading" name="[Ribbon] heading" type="ezstring">
+          <text>Bei uns machen auch Cookies Urlaub</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10718" ezremote:identifier="ribbon_description" name="[Ribbon] Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Damit diese Website einwandfrei funktioniert und um Ihre Erfahrungen zu verbessern, verwenden wir Cookies. Für detailierte Informationen, besuchen Sie unsere <link node_remote_id="cjw-starter-n-809">Datenschutzseite</link>.</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10719" ezremote:identifier="ribbon_settings_label" name="[Ribbon] Settings label" type="ezstring">
+          <text>Einstellungen</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10720" ezremote:identifier="ribbon_button_accept_all_label" name="[Ribbon] Button label" type="ezstring">
+          <text>Verstanden!</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10721" ezremote:identifier="necessary_label" name="[Necessary] Label" type="ezstring">
+          <text>Funktional</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10722" ezremote:identifier="necessary_description" name="[Necessary] Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Technisch erforderliche Cookies unterstützen die Kernfunktionalität. Die Website kann ohne diese Cookies nicht richtig funktionieren und diese können nur durch Änderung Ihrer Browsereinstellungen deaktiviert werden.</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10723" ezremote:identifier="analytics_is_active" name="[Analytics] Is active" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10724" ezremote:identifier="analytics_default_state" name="[Analytics] Default state" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10725" ezremote:identifier="analytics_label" name="[Analytics] Label" type="ezstring">
+          <text>Statistik</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10726" ezremote:identifier="analytics_description" name="[Analytics] Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Statistik-Cookies helfen uns bei der Verbesserung unserer Website, indem sie Informationen über deren Nutzung sammeln.</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10727" ezremote:identifier="analytics_on_accept" name="[Analytics] On accept" type="eztext">
+          <text>document.Cookie.setCookie( 'UseTracking', true, parseInt( 30 ) );</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10728" ezremote:identifier="analytics_on_revoke" name="[Analytics] On revoke" type="eztext">
+          <text>document.Cookie.setCookie( 'UseTracking', false, parseInt( 30 ) );</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10729" ezremote:identifier="marketing_is_active" name="[Marketing] Is active" type="ezboolean">
+          <value>0</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10730" ezremote:identifier="marketing_default_state" name="[Marketing] Default state" type="ezboolean">
+          <value>0</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10731" ezremote:identifier="marketing_label" name="[Marketing] Label" type="ezstring">
+          <text>Marketing-Cookies</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10732" ezremote:identifier="marketing_description" name="[Marketing] Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Wir verwenden Marketing-Cookies, um die Relevanz der Werbekampagnen, die Sie erhalten, zu verbessern.</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10733" ezremote:identifier="marketing_on_accept" name="[Marketing] On accept" type="eztext">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10734" ezremote:identifier="marketing_on_revoke" name="[Marketing] On revoke" type="eztext">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10735" ezremote:identifier="social_sharing_is_active" name="[Social sharing] Is active" type="ezboolean">
+          <value>0</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10736" ezremote:identifier="social_sharing_default_state" name="[Social sharing] Default state" type="ezboolean">
+          <value>0</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10737" ezremote:identifier="social_sharing_label" name="[Social sharing] Label" type="ezstring">
+          <text>Social-Cookies</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10738" ezremote:identifier="social_sharing_description" name="[Social sharing] Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Wir verwenden einige Social-Sharing-Plugins, um Ihnen zu ermöglichen, bestimmte Seiten unserer Website auf sozialen Medien zu teilen.</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10739" ezremote:identifier="social_sharing_on_accept" name="[Social sharing] On accept" type="eztext">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="10740" ezremote:identifier="social_sharing_on_revoke" name="[Social sharing] On revoke" type="eztext">
+          <text/>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-807" name="Cookie Richtlinie - [COOKIE POLICY]" node-id="167" remote-id="cjw-starter-n-167" sort-field="path" sort-order="1" priority="1010"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

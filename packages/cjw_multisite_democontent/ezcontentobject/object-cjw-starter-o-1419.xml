@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="1419" name="IMG_20210514_075011" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="81" ezremote:published="Tue, 20 May 2025 15:39:05 GMT" ezremote:modified="Tue, 20 May 2025 15:39:06 GMT" remote_id="cjw-starter-o-1419" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="0" initial_language="ger-DE">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="2">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="2" ezremote:status="1" ezremote:created="Tue, 20 May 2025 15:39:06 GMT" ezremote:modified="Tue, 20 May 2025 15:39:06 GMT" initial_language="ger-DE">
+      <ezobject:object-translation language="ger-DE" object_name="IMG_20210514_075011">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14411" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>IMG_20210514_075011</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14412" ezremote:identifier="caption" name="Caption" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14413" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="c64284938767a86593558a15ae6df679" alternative-text=""/>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-1498" name="IMG_20210514_075011" node-id="1510" remote-id="cjw-starter-n-1510" sort-field="published" sort-order="0" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

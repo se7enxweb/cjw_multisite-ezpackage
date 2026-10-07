@@ -1,0 +1,55 @@
+<content-class is-container="true" always-available="false" sort-field="priority" sort-order="1">
+  <serialized-name-list>a:2:{s:16:"always-available";s:6:"ger-DE";s:6:"ger-DE";s:17:"Ordner Verwaltung";}</serialized-name-list>
+  <identifier>cjw_folder_management</identifier>
+  <serialized-description-list>a:2:{s:6:"ger-DE";s:53:"Verwalten Sie hier Ihre Kategorien und Saisonobjekte.";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+  <remote-id>cjw-starter-c-cjw_folder_management</remote-id>
+  <object-name-pattern>&lt;short_title|title&gt;</object-name-pattern>
+  <url-alias-pattern/>
+  <remote>
+    <site-url>http://example.com/</site-url>
+    <url>http://example.com/class/view/117</url>
+    <groups>
+      <group id="4" name="CJW"/>
+    </groups>
+    <id>117</id>
+    <created>1576141313</created>
+    <modified>1576141313</modified>
+    <creator>
+      <user-id>14</user-id>
+    </creator>
+    <modifier>
+      <user-id>14</user-id>
+    </modifier>
+  </remote>
+  <ezcontentclass-attribute:attributes xmlns:ezcontentclass-attribute="http://ezpublish/contentclassattribute">
+    <attribute datatype="ezstring" required="true" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>973</id>
+      </remote>
+      <serialized-name-list>a:2:{s:16:"always-available";s:6:"ger-DE";s:6:"ger-DE";s:10:"Bezeichner";}</serialized-name-list>
+      <identifier>title</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category/>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>1</placement>
+      <datatype-parameters>
+        <max-length>255</max-length>
+        <default-string/>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezxmltext" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>974</id>
+      </remote>
+      <serialized-name-list>a:2:{s:16:"always-available";s:6:"ger-DE";s:6:"ger-DE";s:16:"Kurzbeschreibung";}</serialized-name-list>
+      <identifier>short_description</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category/>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>2</placement>
+      <datatype-parameters>
+        <text-column-count>5</text-column-count>
+      </datatype-parameters>
+    </attribute>
+  </ezcontentclass-attribute:attributes>
+</content-class>

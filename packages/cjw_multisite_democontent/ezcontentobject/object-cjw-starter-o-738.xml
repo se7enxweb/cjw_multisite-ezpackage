@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="738" name="Verwaltung" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="117" ezremote:published="Thu, 30 Jul 2020 12:53:38 GMT" ezremote:modified="Thu, 30 Jul 2020 12:53:38 GMT" remote_id="cjw-starter-o-738" class_remote_id="cjw-starter-c-cjw_folder_management" ezremote:class_identifier="cjw_folder_management" ezremote:always_available="0" initial_language="ger-DE">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Thu, 30 Jul 2020 12:53:29 GMT" ezremote:modified="Thu, 30 Jul 2020 12:53:38 GMT" initial_language="ger-DE">
+      <ezobject:object-translation language="ger-DE" object_name="Verwaltung">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6714" ezremote:identifier="title" name="Bezeichner" type="ezstring">
+          <text>Verwaltung</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6715" ezremote:identifier="short_description" name="Kurzbeschreibung" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-root" name="Verwaltung" node-id="807" remote-id="cjw-starter-n-807" sort-field="priority" sort-order="1" priority="1000"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

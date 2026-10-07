@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:id="1398" name="Harro Hübner" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="45" ezremote:published="Wed, 02 Jun 2021 14:40:32 GMT" ezremote:modified="Wed, 02 Jun 2021 14:40:32 GMT" remote_id="cjw-starter-o-1398" class_remote_id="5af75d89cc442b764b791d18caba56f8" ezremote:class_identifier="ng_news" ezremote:always_available="0" initial_language="ger-DE">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" active_version="2">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:version="2" ezremote:status="1" ezremote:created="Wed, 02 Jun 2021 14:40:32 GMT" ezremote:modified="Wed, 02 Jun 2021 14:40:32 GMT" initial_language="ger-DE">
+      <ezobject:object-translation xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" language="ger-DE" object_name="Harro Hübner">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14139" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Harro Hübner</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14140" ezremote:identifier="teaser_title" name="Teaser title" type="ezstring">
+          <text>Harro Hübner</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14141" ezremote:identifier="authors" name="Author" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14142" ezremote:identifier="publish_date" name="Publish date" type="ezdatetime">
+          <date_time>Wed, 23 Jun 2021 18:00:00 GMT</date_time>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14143" ezremote:identifier="headline" name="Headline" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14144" ezremote:identifier="teaser_image" name="Teaser image" type="ezimage" image-file-key="6d414c278d0703799405057361bc1007" alternative-text="Foto: Ulrich Windoffer"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14145" ezremote:identifier="teaser_intro" name="Teaser intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <section>
+              <header align="left">"Balladen, Blues &amp; leise Lieder..."</header>
+            </section>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14146" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="d1c213d7bb9e165d70fdb3b694e37c49" alternative-text="Foto: H. Benecke"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14147" ezremote:identifier="full_intro" name="Intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <section>
+              <header align="left">In seinem Soloprogramm erinnert er sich an seine "Musikalischen und Zwischenmenschlichen Lehrjahre" bei den Gruppen "Handarbeit" &amp; "Keimzeit" und zieht eine: "musikalische &amp; lebensnahe Zwischenbilanz".</header>
+            </section>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:id="14148" ezremote:identifier="body" name="Body text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <section>
+              <header align="left">Er singt, spielt Gitarre &amp; Mundharmonika und interpretiert hier eher unveröffentlichte oder: "vergessene Leisegangsche Lieder" und natürlich auch: "Hübnersche Blues" – gilt er doch als: „…einer der wenigen wirklichen Bluessänger Deutschlands…“ (Zitat: Blues-News-Magazin) Hübner war und ist ein Freigeist, ein Verfechter von Freiheit, Gleichheit und Selbstbestimmung. 1965 im Ostseebad Kühlungsborn geboren, aufgewachsen und sozialisiert in der ehemaligen Deutschen „Diktatorischen“ Republik, lernte er schnell die Grenzen der Möglichkeiten für ein selbstbestimmtes und freiheitliches Leben kennen und geriet in stetigen Konflikt mit dem herrschenden Regime. Rückblickend stellt er heute fest: „…ich habe es überlebt und ich bin dankbar für alle Erfahrungen aus dieser Zeit…“.</header>
+            </section>
+            <section>
+              <header align="left">Seine Konzerte sind intensiv, emotional, berührend, mitreißend und: auch immer mit einem Quäntchen Selbstironie und Humor versehen. Es sind Geschichten aus dem Leben für das Leben, mit allem was dazugehört.</header>
+              <paragraph>
+                <strong>Datum/Uhrzeit:</strong>
+              </paragraph>
+              <paragraph xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <table class="table-striped" border="0" width="40%" custom:caption="">
+                  <tr>
+                    <td>
+                      <paragraph>Mittwoch, 23. Juni 2021</paragraph>
+                    </td>
+                    <td>
+                      <paragraph>20:00 Uhr*</paragraph>
+                    </td>
+                  </tr>
+                </table>
+              </paragraph>
+              <paragraph>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                  <strong>Veranstaltungsort:</strong>
+                </line>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Darßer Arche</line>
+              </paragraph>
+              <paragraph>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                  <strong>Kategorie:</strong>
+                </line>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Konzert</line>
+              </paragraph>
+              <paragraph>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                  <strong>Preise:</strong>
+                </line>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">ohne Kurkarte: 14,50 EURO </line>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">für Kurkarteninhaber: 12,00 EURO</line>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Kinder: 5,00 EURO</line>
+              </paragraph>
+              <paragraph>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                  <strong>Reservierung &amp; Anmeldung:</strong>
+                </line>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Kurverwaltung Wieck und Kurverwaltung Born</line>
+              </paragraph>
+              <paragraph>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/"><strong>Ausrichter der Veranstaltung</strong> und inhaltlich Verantwortlicher der hier wiedergegebenen Veranstaltungsinformationen:</line>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Kur und Tourist GmbH Darß</line>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Bliesenraderweg 2</line>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">18375 Wieck a. Darß</line>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Tel: 038233 - 201</line>
+                <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">E-Mail: wieck@darss.org</line>
+              </paragraph>
+              <paragraph>
+                <custom name="sub">*Die Veranstaltung findet unter Corona - Schutzbestimmungen statt, d.h., die Teilnehmer geben zu Beginn ihre Kontaktdaten bekannt, halten erforderlichen Abstand und führen einen Mundschutz für gegebene Situationen mit.</custom>
+              </paragraph>
+            </section>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14149" ezremote:identifier="location" name="Location" type="ezgmaplocation" ezgl_has_content="1">
+          <latitude>54.4095</latitude>
+          <longitude>12.581394</longitude>
+          <address/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14150" ezremote:identifier="related_content" name="Related content" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14151" ezremote:identifier="related_multimedia" name="Related multimedia items" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14152" ezremote:identifier="main_topic" name="Main topic" type="eztags">
+          <id-string/>
+          <keyword-string/>
+          <parent-string/>
+          <locale-string/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14153" ezremote:identifier="tags" name="Tags" type="eztags">
+          <id-string/>
+          <keyword-string/>
+          <parent-string/>
+          <locale-string/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14154" ezremote:identifier="sponsored_content_disclosure" name="Sponsored content disclosure" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14155" ezremote:identifier="metadata" name="Meta data" type="xrowmetadata">
+          <MetaData>
+            <title/>
+            <keywords/>
+            <description/>
+            <canonical_url/>
+            <priority/>
+            <change>daily</change>
+            <sitemap_use>1</sitemap_use>
+            <og_image/>
+            <og_image_width/>
+            <og_image_height/>
+            <og_image_alt/>
+            <og_image_type/>
+          </MetaData>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14156" ezremote:identifier="css_class" name="CSS class" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14157" ezremote:identifier="url_text" name="URL text" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-1483" name="Harro Hübner" node-id="1490" remote-id="cjw-starter-n-1490" sort-field="published" sort-order="0" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

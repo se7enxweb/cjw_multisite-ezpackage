@@ -1,0 +1,1655 @@
+{
+    "_root": {
+        "node": 168,
+        "ger": "jac-example",
+        "eng": "jac-example"
+    },
+    "cjw-starter-n-176": {
+        "node": 176,
+        "class": "ng_landing_page",
+        "languages": [
+            "eng-US",
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "showcase",
+        "name_ger": "Showcase",
+        "eng": "showcase",
+        "name_eng": "Showcase"
+    },
+    "cjw-starter-n-779": {
+        "node": 779,
+        "class": "ng_frontpage",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite",
+        "name_ger": "Startseite",
+        "eng": "startseite",
+        "name_eng": "Startseite"
+    },
+    "cjw-starter-n-807": {
+        "node": 807,
+        "class": "cjw_folder_management",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "verwaltung",
+        "name_ger": "Verwaltung",
+        "eng": "verwaltung",
+        "name_eng": "Verwaltung"
+    },
+    "cjw-starter-n-809": {
+        "node": 809,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "datenschutzerklaerung",
+        "name_ger": "Datenschutzerklärung",
+        "eng": "datenschutzerklaerung",
+        "name_eng": "Datenschutzerklärung"
+    },
+    "cjw-starter-n-810": {
+        "node": 810,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "impressum-und-kontakt",
+        "name_ger": "Impressum und Kontakt",
+        "eng": "impressum-und-kontakt",
+        "name_eng": "Impressum und Kontakt"
+    },
+    "cjw-starter-n-1334": {
+        "node": 1334,
+        "class": "ng_landing_page",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1",
+        "name_ger": "Beispiele 1",
+        "eng": "beispiele-1",
+        "name_eng": "Beispiele 1"
+    },
+    "cjw-starter-n-1482": {
+        "node": 1482,
+        "class": "cjw_feedback_form",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "kontaktformular",
+        "name_ger": "Kontaktformular",
+        "eng": "kontaktformular",
+        "name_eng": "Kontaktformular"
+    },
+    "cjw-starter-n-1483": {
+        "node": 1483,
+        "class": "ng_landing_page",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "veranstaltungen",
+        "name_ger": "Veranstaltungen",
+        "eng": "veranstaltungen",
+        "name_eng": "Veranstaltungen"
+    },
+    "cjw-starter-n-1511": {
+        "node": 1511,
+        "class": "ng_landing_page",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2",
+        "name_ger": "Beispiele 2",
+        "eng": "beispiele-2",
+        "name_eng": "Beispiele 2"
+    },
+    "cjw-starter-n-1544": {
+        "node": 1544,
+        "class": "ng_category",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "neuigkeiten-kategorie",
+        "name_ger": "Neuigkeiten (Kategorie)",
+        "eng": "neuigkeiten-kategorie",
+        "name_eng": "Neuigkeiten (Kategorie)"
+    },
+    "cjw-starter-n-51": {
+        "node": 51,
+        "class": "ng_container",
+        "languages": [
+            "eng-US",
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "",
+        "name_ger": "Bilder",
+        "eng": "",
+        "name_eng": "Images"
+    },
+    "cjw-starter-n-65": {
+        "node": 65,
+        "class": "ng_site_info",
+        "languages": [
+            "eng-US",
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "verwaltung/seitenverwaltung",
+        "name_ger": "Seitenverwaltung - [SITEINFO]",
+        "eng": "verwaltung/netgen-media-site2",
+        "name_eng": "Netgen Media Site - [SITEINFO]"
+    },
+    "cjw-starter-n-167": {
+        "node": 167,
+        "class": "ng_cookie_policy",
+        "languages": [
+            "eng-US",
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "verwaltung/cookie-richtlinie",
+        "name_ger": "Cookie Richtlinie - [COOKIE POLICY]",
+        "eng": "verwaltung/netgen-media-site",
+        "name_eng": "Netgen Media Site - [COOKIE POLICY]"
+    },
+    "cjw-starter-n-177": {
+        "node": 177,
+        "class": "ng_article",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/article-test2",
+        "name_ger": "Article test",
+        "eng": "showcase/article-test2",
+        "name_eng": "Article test"
+    },
+    "cjw-starter-n-178": {
+        "node": 178,
+        "class": "ng_audio",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/audio-test",
+        "name_ger": "Audio test",
+        "eng": "showcase/audio-test",
+        "name_eng": "Audio test"
+    },
+    "cjw-starter-n-179": {
+        "node": 179,
+        "class": "ng_banner",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/banner-test",
+        "name_ger": "Banner test",
+        "eng": "showcase/banner-test",
+        "name_eng": "Banner test"
+    },
+    "cjw-starter-n-180": {
+        "node": 180,
+        "class": "ng_blog_post",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/blog-post-test",
+        "name_ger": "Blog post test",
+        "eng": "showcase/blog-post-test",
+        "name_eng": "Blog post test"
+    },
+    "cjw-starter-n-181": {
+        "node": 181,
+        "class": "ng_category",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/category-test",
+        "name_ger": "Category test",
+        "eng": "showcase/category-test",
+        "name_eng": "Category test"
+    },
+    "cjw-starter-n-182": {
+        "node": 182,
+        "class": "ng_feedback_form",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/form-test",
+        "name_ger": "Form test",
+        "eng": "showcase/form-test",
+        "name_eng": "Form test"
+    },
+    "cjw-starter-n-183": {
+        "node": 183,
+        "class": "ng_gallery",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/gallery-test",
+        "name_ger": "Gallery test",
+        "eng": "showcase/gallery-test",
+        "name_eng": "Gallery test"
+    },
+    "cjw-starter-n-190": {
+        "node": 190,
+        "class": "ng_htmlbox",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/html-box-test2",
+        "name_ger": "HTML box test",
+        "eng": "showcase/html-box-test2",
+        "name_eng": "HTML box test"
+    },
+    "cjw-starter-n-191": {
+        "node": 191,
+        "class": "ng_landing_page",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/landing-page-test",
+        "name_ger": "Landing page test",
+        "eng": "showcase/landing-page-test",
+        "name_eng": "Landing page test"
+    },
+    "cjw-starter-n-192": {
+        "node": 192,
+        "class": "ng_news",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/news-test",
+        "name_ger": "News test",
+        "eng": "showcase/news-test",
+        "name_eng": "News test"
+    },
+    "cjw-starter-n-193": {
+        "node": 193,
+        "class": "ng_recipe",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/recipe-test",
+        "name_ger": "Recipe test",
+        "eng": "showcase/recipe-test",
+        "name_eng": "Recipe test"
+    },
+    "cjw-starter-n-194": {
+        "node": 194,
+        "class": "ng_video",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/video-test",
+        "name_ger": "Video test",
+        "eng": "showcase/video-test",
+        "name_eng": "Video test"
+    },
+    "cjw-starter-n-195": {
+        "node": 195,
+        "class": "image",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/image-test",
+        "name_ger": "Image test",
+        "eng": "showcase/image-test",
+        "name_eng": "Image test"
+    },
+    "cjw-starter-n-196": {
+        "node": 196,
+        "class": "file",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/file-test",
+        "name_ger": "File test",
+        "eng": "showcase/file-test",
+        "name_eng": "File test"
+    },
+    "cjw-starter-n-1292": {
+        "node": 1292,
+        "class": "ng_container",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "verwaltung/verweise-in-der-kopfzeile",
+        "name_ger": "Verweise in der Kopfzeile",
+        "eng": "verwaltung/verweise-in-der-kopfzeile",
+        "name_eng": "Verweise in der Kopfzeile"
+    },
+    "cjw-starter-n-1428": {
+        "node": 1428,
+        "class": "ng_htmlbox",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/html-box-test",
+        "name_ger": "HTML box test",
+        "eng": "showcase/html-box-test",
+        "name_eng": "HTML box test"
+    },
+    "cjw-starter-n-1433": {
+        "node": 1433,
+        "class": "ng_article",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/article-test",
+        "name_ger": "Article test",
+        "eng": "showcase/article-test",
+        "name_eng": "Article test"
+    },
+    "cjw-starter-n-1437": {
+        "node": 1437,
+        "class": "ng_gallery",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-startseite",
+        "name_ger": "Galerie Startseite",
+        "eng": "startseite/galerie-startseite",
+        "name_eng": "Galerie Startseite"
+    },
+    "cjw-starter-n-1444": {
+        "node": 1444,
+        "class": "ng_banner",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/kopfbild-1",
+        "name_ger": "Kopfbild 1",
+        "eng": "startseite/kopfbild-1",
+        "name_eng": "Kopfbild 1"
+    },
+    "cjw-starter-n-1445": {
+        "node": 1445,
+        "class": "ng_banner",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/kopfbild-2",
+        "name_ger": "Kopfbild 2",
+        "eng": "startseite/kopfbild-2",
+        "name_eng": "Kopfbild 2"
+    },
+    "cjw-starter-n-1453": {
+        "node": 1453,
+        "class": "ng_banner",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/kopfbild-3",
+        "name_ger": "Kopfbild 3",
+        "eng": "startseite/kopfbild-3",
+        "name_eng": "Kopfbild 3"
+    },
+    "cjw-starter-n-1472": {
+        "node": 1472,
+        "class": "ng_gallery",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-stralsund-im-winter",
+        "name_ger": "Galerie - Stralsund im Winter",
+        "eng": "startseite/galerie-stralsund-im-winter",
+        "name_eng": "Galerie - Stralsund im Winter"
+    },
+    "cjw-starter-n-1484": {
+        "node": 1484,
+        "class": "tmv_container",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "veranstaltungen/tmv",
+        "name_ger": "TMV",
+        "eng": "veranstaltungen/tmv",
+        "name_eng": "TMV"
+    },
+    "cjw-starter-n-1486": {
+        "node": 1486,
+        "class": "ng_news",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "veranstaltungen/musiktheater-stellmaecke",
+        "name_ger": "Musiktheater Stellmäcke",
+        "eng": "veranstaltungen/musiktheater-stellmaecke",
+        "name_eng": "Musiktheater Stellmäcke"
+    },
+    "cjw-starter-n-1488": {
+        "node": 1488,
+        "class": "ng_news",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "veranstaltungen/duo-liaisong",
+        "name_ger": "Duo Liaisong",
+        "eng": "veranstaltungen/duo-liaisong",
+        "name_eng": "Duo Liaisong"
+    },
+    "cjw-starter-n-1489": {
+        "node": 1489,
+        "class": "ng_news",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "veranstaltungen/gunter-boehnke-the-schummlers",
+        "name_ger": "Gunter Böhnke & The Schummlers",
+        "eng": "veranstaltungen/gunter-boehnke-the-schummlers",
+        "name_eng": "Gunter Böhnke & The Schummlers"
+    },
+    "cjw-starter-n-1490": {
+        "node": 1490,
+        "class": "ng_news",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "veranstaltungen/harro-huebner",
+        "name_ger": "Harro Hübner",
+        "eng": "veranstaltungen/harro-huebner",
+        "name_eng": "Harro Hübner"
+    },
+    "cjw-starter-n-1491": {
+        "node": 1491,
+        "class": "ng_news",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "veranstaltungen/johannes-kirchberg",
+        "name_ger": "Johannes Kirchberg",
+        "eng": "veranstaltungen/johannes-kirchberg",
+        "name_eng": "Johannes Kirchberg"
+    },
+    "cjw-starter-n-1493": {
+        "node": 1493,
+        "class": "ng_news",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "veranstaltungen/tatjana-karpouk",
+        "name_ger": "Tatjana Karpouk",
+        "eng": "veranstaltungen/tatjana-karpouk",
+        "name_eng": "Tatjana Karpouk"
+    },
+    "cjw-starter-n-1494": {
+        "node": 1494,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/testartikel-1-kt",
+        "name_ger": "Testartikel 1 KT",
+        "eng": "beispiele-1/testartikel-1-kt",
+        "name_eng": "Testartikel 1 KT"
+    },
+    "cjw-starter-n-1495": {
+        "node": 1495,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/testartikel-2-kt",
+        "name_ger": "Testartikel 2 KT",
+        "eng": "beispiele-1/testartikel-2-kt",
+        "name_eng": "Testartikel 2 KT"
+    },
+    "cjw-starter-n-1496": {
+        "node": 1496,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/testartikel-3-kt",
+        "name_ger": "Testartikel 3 KT",
+        "eng": "beispiele-1/testartikel-3-kt",
+        "name_eng": "Testartikel 3 KT"
+    },
+    "cjw-starter-n-1497": {
+        "node": 1497,
+        "class": "ng_banner",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/aktuelles",
+        "name_ger": "Aktuelles",
+        "eng": "beispiele-1/aktuelles",
+        "name_eng": "Aktuelles"
+    },
+    "cjw-starter-n-1498": {
+        "node": 1498,
+        "class": "ng_gallery",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/galerie-test",
+        "name_ger": "Galerie Test",
+        "eng": "beispiele-1/galerie-test",
+        "name_eng": "Galerie Test"
+    },
+    "cjw-starter-n-1512": {
+        "node": 1512,
+        "class": "ng_container",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/jahreshighlights",
+        "name_ger": "Jahreshighlights",
+        "eng": "beispiele-2/jahreshighlights",
+        "name_eng": "Jahreshighlights"
+    },
+    "cjw-starter-n-1520": {
+        "node": 1520,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/testartikel-1-kt",
+        "name_ger": "Testartikel 1 KT",
+        "eng": "beispiele-2/testartikel-1-kt",
+        "name_eng": "Testartikel 1 KT"
+    },
+    "cjw-starter-n-1521": {
+        "node": 1521,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/testartikel-2-kt",
+        "name_ger": "Testartikel 2 KT",
+        "eng": "beispiele-2/testartikel-2-kt",
+        "name_eng": "Testartikel 2 KT"
+    },
+    "cjw-starter-n-1522": {
+        "node": 1522,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/testartikel-3-kt",
+        "name_ger": "Testartikel 3 KT",
+        "eng": "beispiele-2/testartikel-3-kt",
+        "name_eng": "Testartikel 3 KT"
+    },
+    "cjw-starter-n-1523": {
+        "node": 1523,
+        "class": "ng_banner",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/aktuelles",
+        "name_ger": "Aktuelles",
+        "eng": "beispiele-2/aktuelles",
+        "name_eng": "Aktuelles"
+    },
+    "cjw-starter-n-1524": {
+        "node": 1524,
+        "class": "ng_gallery",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/galerie-test",
+        "name_ger": "Galerie Test",
+        "eng": "beispiele-2/galerie-test",
+        "name_eng": "Galerie Test"
+    },
+    "cjw-starter-n-1537": {
+        "node": 1537,
+        "class": "ng_container",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/testartikel-ordner",
+        "name_ger": "Testartikel (Ordner)",
+        "eng": "beispiele-2/testartikel-ordner",
+        "name_eng": "Testartikel (Ordner)"
+    },
+    "cjw-starter-n-1545": {
+        "node": 1545,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "neuigkeiten-kategorie/testartikel-1-kt",
+        "name_ger": "Testartikel 1 KT",
+        "eng": "neuigkeiten-kategorie/testartikel-1-kt",
+        "name_eng": "Testartikel 1 KT"
+    },
+    "cjw-starter-n-1546": {
+        "node": 1546,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "neuigkeiten-kategorie/testartikel-2-kt",
+        "name_ger": "Testartikel 2 KT",
+        "eng": "neuigkeiten-kategorie/testartikel-2-kt",
+        "name_eng": "Testartikel 2 KT"
+    },
+    "cjw-starter-n-1547": {
+        "node": 1547,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "neuigkeiten-kategorie/testartikel-3-kt",
+        "name_ger": "Testartikel 3 KT",
+        "eng": "neuigkeiten-kategorie/testartikel-3-kt",
+        "name_eng": "Testartikel 3 KT"
+    },
+    "cjw-starter-n-1548": {
+        "node": 1548,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "neuigkeiten-kategorie/testartikel-4-kt",
+        "name_ger": "Testartikel 4 KT",
+        "eng": "neuigkeiten-kategorie/testartikel-4-kt",
+        "name_eng": "Testartikel 4 KT"
+    },
+    "cjw-starter-n-1549": {
+        "node": 1549,
+        "class": "file",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/pdf-datei-download",
+        "name_ger": "PDF-Datei Download",
+        "eng": "beispiele-2/pdf-datei-download",
+        "name_eng": "PDF-Datei Download"
+    },
+    "cjw-starter-n-1551": {
+        "node": 1551,
+        "class": "ng_container",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/ordner",
+        "name_ger": "Ordner",
+        "eng": "beispiele-2/ordner",
+        "name_eng": "Ordner"
+    },
+    "cjw-starter-n-184": {
+        "node": 184,
+        "class": "image",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/gallery-test/justyn-warner-541680-unsplash-1",
+        "name_ger": "justyn-warner-541680-unsplash (1)",
+        "eng": "showcase/gallery-test/justyn-warner-541680-unsplash-1",
+        "name_eng": "justyn-warner-541680-unsplash (1)"
+    },
+    "cjw-starter-n-185": {
+        "node": 185,
+        "class": "image",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/gallery-test/mr-lee-618503-unsplash",
+        "name_ger": "mr-lee-618503-unsplash",
+        "eng": "showcase/gallery-test/mr-lee-618503-unsplash",
+        "name_eng": "mr-lee-618503-unsplash"
+    },
+    "cjw-starter-n-186": {
+        "node": 186,
+        "class": "image",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/gallery-test/alora-griffiths-750409-unsplash",
+        "name_ger": "alora-griffiths-750409-unsplash",
+        "eng": "showcase/gallery-test/alora-griffiths-750409-unsplash",
+        "name_eng": "alora-griffiths-750409-unsplash"
+    },
+    "cjw-starter-n-187": {
+        "node": 187,
+        "class": "image",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/gallery-test/form-679347-unsplash",
+        "name_ger": "form-679347-unsplash",
+        "eng": "showcase/gallery-test/form-679347-unsplash",
+        "name_eng": "form-679347-unsplash"
+    },
+    "cjw-starter-n-188": {
+        "node": 188,
+        "class": "image",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/gallery-test/matthew-kane-94147-unsplash",
+        "name_ger": "matthew-kane-94147-unsplash",
+        "eng": "showcase/gallery-test/matthew-kane-94147-unsplash",
+        "name_eng": "matthew-kane-94147-unsplash"
+    },
+    "cjw-starter-n-189": {
+        "node": 189,
+        "class": "image",
+        "languages": [
+            "eng-US"
+        ],
+        "hidden": 0,
+        "ger": "showcase/gallery-test/form-426165-unsplash",
+        "name_ger": "form-426165-unsplash",
+        "eng": "showcase/gallery-test/form-426165-unsplash",
+        "name_eng": "form-426165-unsplash"
+    },
+    "cjw-starter-n-821": {
+        "node": 821,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "",
+        "name_ger": "Wire 2019-10-15 at 7_53 AM",
+        "eng": "",
+        "name_eng": "Wire 2019-10-15 at 7_53 AM"
+    },
+    "cjw-starter-n-1293": {
+        "node": 1293,
+        "class": "ng_shortcut",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "verwaltung/verweise-in-der-kopfzeile/externe-informationen",
+        "name_ger": "Externe Informationen",
+        "eng": "verwaltung/verweise-in-der-kopfzeile/externe-informationen",
+        "name_eng": "Externe Informationen"
+    },
+    "cjw-starter-n-1294": {
+        "node": 1294,
+        "class": "ng_shortcut",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "verwaltung/verweise-in-der-kopfzeile/veranstaltungen",
+        "name_ger": "Veranstaltungen",
+        "eng": "verwaltung/verweise-in-der-kopfzeile/veranstaltungen",
+        "name_eng": "Veranstaltungen"
+    },
+    "cjw-starter-n-1345": {
+        "node": 1345,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "",
+        "name_ger": "Kirchberg-Ein-Mann-gibt-Portrait",
+        "eng": "",
+        "name_eng": "Kirchberg-Ein-Mann-gibt-Portrait"
+    },
+    "cjw-starter-n-1413": {
+        "node": 1413,
+        "class": "ng_news",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/jahreshighlights/rapsfest",
+        "name_ger": "Rapsfest",
+        "eng": "beispiele-2/jahreshighlights/rapsfest",
+        "name_eng": "Rapsfest"
+    },
+    "cjw-starter-n-1421": {
+        "node": 1421,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "",
+        "name_ger": "IMG_0830",
+        "eng": "",
+        "name_eng": "IMG_0830"
+    },
+    "cjw-starter-n-1422": {
+        "node": 1422,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "",
+        "name_ger": "IMG_0513",
+        "eng": "",
+        "name_eng": "IMG_0513"
+    },
+    "cjw-starter-n-1423": {
+        "node": 1423,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "",
+        "name_ger": "IMG_0837",
+        "eng": "",
+        "name_eng": "IMG_0837"
+    },
+    "cjw-starter-n-1424": {
+        "node": 1424,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "",
+        "name_ger": "IMG_6078",
+        "eng": "",
+        "name_eng": "IMG_6078"
+    },
+    "cjw-starter-n-1425": {
+        "node": 1425,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "",
+        "name_ger": "IMG_6838",
+        "eng": "",
+        "name_eng": "IMG_6838"
+    },
+    "cjw-starter-n-1426": {
+        "node": 1426,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "",
+        "name_ger": "IMG_7118",
+        "eng": "",
+        "name_eng": "IMG_7118"
+    },
+    "cjw-starter-n-1427": {
+        "node": 1427,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 1,
+        "ger": "",
+        "name_ger": "IMG_8708",
+        "eng": "",
+        "name_eng": "IMG_8708"
+    },
+    "cjw-starter-n-1438": {
+        "node": 1438,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-startseite/wire-2020-10-16-at-12-33-35",
+        "name_ger": "Wire 2020-10-16 at 12-33-35",
+        "eng": "startseite/galerie-startseite/wire-2020-10-16-at-12-33-35",
+        "name_eng": "Wire 2020-10-16 at 12-33-35"
+    },
+    "cjw-starter-n-1439": {
+        "node": 1439,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-startseite/wire-2019-10-04-at-7_571-am",
+        "name_ger": "Wire 2019-10-04 at 7_571 AM",
+        "eng": "startseite/galerie-startseite/wire-2019-10-04-at-7_571-am",
+        "name_eng": "Wire 2019-10-04 at 7_571 AM"
+    },
+    "cjw-starter-n-1440": {
+        "node": 1440,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-startseite/wire-2019-10-04-at-7_57-am",
+        "name_ger": "Wire 2019-10-04 at 7_57 AM",
+        "eng": "startseite/galerie-startseite/wire-2019-10-04-at-7_57-am",
+        "name_eng": "Wire 2019-10-04 at 7_57 AM"
+    },
+    "cjw-starter-n-1441": {
+        "node": 1441,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-startseite/wire-2018-10-17-at-11_01-am",
+        "name_ger": "Wire 2018-10-17 at 11_01 AM",
+        "eng": "startseite/galerie-startseite/wire-2018-10-17-at-11_01-am",
+        "name_eng": "Wire 2018-10-17 at 11_01 AM"
+    },
+    "cjw-starter-n-1442": {
+        "node": 1442,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-startseite/wire-2018-11-27-at-8_16-am",
+        "name_ger": "Wire 2018-11-27 at 8_16 AM",
+        "eng": "startseite/galerie-startseite/wire-2018-11-27-at-8_16-am",
+        "name_eng": "Wire 2018-11-27 at 8_16 AM"
+    },
+    "cjw-starter-n-1446": {
+        "node": 1446,
+        "class": "ng_news",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/jahreshighlights/hafentage",
+        "name_ger": "Hafentage",
+        "eng": "beispiele-2/jahreshighlights/hafentage",
+        "name_eng": "Hafentage"
+    },
+    "cjw-starter-n-1447": {
+        "node": 1447,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-startseite/wire-2019-02-18-at-8_351-am",
+        "name_ger": "Wire 2019-02-18 at 8_351 AM",
+        "eng": "startseite/galerie-startseite/wire-2019-02-18-at-8_351-am",
+        "name_eng": "Wire 2019-02-18 at 8_351 AM"
+    },
+    "cjw-starter-n-1448": {
+        "node": 1448,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-startseite/wire-2019-10-15-at-7_53-am",
+        "name_ger": "Wire 2019-10-15 at 7_53 AM",
+        "eng": "startseite/galerie-startseite/wire-2019-10-15-at-7_53-am",
+        "name_eng": "Wire 2019-10-15 at 7_53 AM"
+    },
+    "cjw-starter-n-1449": {
+        "node": 1449,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-startseite/wire-2019-02-18-at-8_341-am",
+        "name_ger": "Wire 2019-02-18 at 8_341 AM",
+        "eng": "startseite/galerie-startseite/wire-2019-02-18-at-8_341-am",
+        "name_eng": "Wire 2019-02-18 at 8_341 AM"
+    },
+    "cjw-starter-n-1450": {
+        "node": 1450,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-startseite/wire-2018-10-24-at-12_12-pm",
+        "name_ger": "Wire 2018-10-24 at 12_12 PM",
+        "eng": "startseite/galerie-startseite/wire-2018-10-24-at-12_12-pm",
+        "name_eng": "Wire 2018-10-24 at 12_12 PM"
+    },
+    "cjw-starter-n-1451": {
+        "node": 1451,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-startseite/wire-2018-12-17-at-8_30-am",
+        "name_ger": "Wire 2018-12-17 at 8_30 AM",
+        "eng": "startseite/galerie-startseite/wire-2018-12-17-at-8_30-am",
+        "name_eng": "Wire 2018-12-17 at 8_30 AM"
+    },
+    "cjw-starter-n-1452": {
+        "node": 1452,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-startseite/wire-2019-10-22-at-7_532-am",
+        "name_ger": "Wire 2019-10-22 at 7_532 AM",
+        "eng": "startseite/galerie-startseite/wire-2019-10-22-at-7_532-am",
+        "name_eng": "Wire 2019-10-22 at 7_532 AM"
+    },
+    "cjw-starter-n-1454": {
+        "node": 1454,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-startseite/img_20210514_075011",
+        "name_ger": "IMG_20210514_075011",
+        "eng": "startseite/galerie-startseite/img_20210514_075011",
+        "name_eng": "IMG_20210514_075011"
+    },
+    "cjw-starter-n-1473": {
+        "node": 1473,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-stralsund-im-winter/3-5-436838b6-3f53-42fe-a68b-ddf1bb404c68",
+        "name_ger": "3-5-436838b6-3f53-42fe-a68b-ddf1bb404c68",
+        "eng": "startseite/galerie-stralsund-im-winter/3-5-436838b6-3f53-42fe-a68b-ddf1bb404c68",
+        "name_eng": "3-5-436838b6-3f53-42fe-a68b-ddf1bb404c68"
+    },
+    "cjw-starter-n-1474": {
+        "node": 1474,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-stralsund-im-winter/3-5-5d4c495c-d658-44f4-b947-cdcaf1084ecf",
+        "name_ger": "3-5-5d4c495c-d658-44f4-b947-cdcaf1084ecf",
+        "eng": "startseite/galerie-stralsund-im-winter/3-5-5d4c495c-d658-44f4-b947-cdcaf1084ecf",
+        "name_eng": "3-5-5d4c495c-d658-44f4-b947-cdcaf1084ecf"
+    },
+    "cjw-starter-n-1475": {
+        "node": 1475,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-stralsund-im-winter/3-5-da1a601f-dec5-4da5-a8d2-f598e1f9e958",
+        "name_ger": "3-5-da1a601f-dec5-4da5-a8d2-f598e1f9e958",
+        "eng": "startseite/galerie-stralsund-im-winter/3-5-da1a601f-dec5-4da5-a8d2-f598e1f9e958",
+        "name_eng": "3-5-da1a601f-dec5-4da5-a8d2-f598e1f9e958"
+    },
+    "cjw-starter-n-1476": {
+        "node": 1476,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-stralsund-im-winter/3-5-c0c3a95d-aef0-4976-9abc-eb5a542213db",
+        "name_ger": "3-5-c0c3a95d-aef0-4976-9abc-eb5a542213db",
+        "eng": "startseite/galerie-stralsund-im-winter/3-5-c0c3a95d-aef0-4976-9abc-eb5a542213db",
+        "name_eng": "3-5-c0c3a95d-aef0-4976-9abc-eb5a542213db"
+    },
+    "cjw-starter-n-1477": {
+        "node": 1477,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-stralsund-im-winter/3-2-5dbe0b18-8fc3-442f-af42-57325e072a46",
+        "name_ger": "3-2-5dbe0b18-8fc3-442f-af42-57325e072a46",
+        "eng": "startseite/galerie-stralsund-im-winter/3-2-5dbe0b18-8fc3-442f-af42-57325e072a46",
+        "name_eng": "3-2-5dbe0b18-8fc3-442f-af42-57325e072a46"
+    },
+    "cjw-starter-n-1478": {
+        "node": 1478,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-stralsund-im-winter/3-5-7d6f82f8-a401-43be-99c0-7e28e13c5a5c",
+        "name_ger": "3-5-7d6f82f8-a401-43be-99c0-7e28e13c5a5c",
+        "eng": "startseite/galerie-stralsund-im-winter/3-5-7d6f82f8-a401-43be-99c0-7e28e13c5a5c",
+        "name_eng": "3-5-7d6f82f8-a401-43be-99c0-7e28e13c5a5c"
+    },
+    "cjw-starter-n-1479": {
+        "node": 1479,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-stralsund-im-winter/3-2-51f8c3bd-0a70-4329-91e2-b1ffae082fff",
+        "name_ger": "3-2-51f8c3bd-0a70-4329-91e2-b1ffae082fff",
+        "eng": "startseite/galerie-stralsund-im-winter/3-2-51f8c3bd-0a70-4329-91e2-b1ffae082fff",
+        "name_eng": "3-2-51f8c3bd-0a70-4329-91e2-b1ffae082fff"
+    },
+    "cjw-starter-n-1480": {
+        "node": 1480,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-stralsund-im-winter/3-5-973184bf-d81c-4e64-8362-34f6ea286baf",
+        "name_ger": "3-5-973184bf-d81c-4e64-8362-34f6ea286baf",
+        "eng": "startseite/galerie-stralsund-im-winter/3-5-973184bf-d81c-4e64-8362-34f6ea286baf",
+        "name_eng": "3-5-973184bf-d81c-4e64-8362-34f6ea286baf"
+    },
+    "cjw-starter-n-1481": {
+        "node": 1481,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "startseite/galerie-stralsund-im-winter/3-5-d8d85eb3-86ad-4aa8-8faf-2560f28bae90",
+        "name_ger": "3-5-d8d85eb3-86ad-4aa8-8faf-2560f28bae90",
+        "eng": "startseite/galerie-stralsund-im-winter/3-5-d8d85eb3-86ad-4aa8-8faf-2560f28bae90",
+        "name_eng": "3-5-d8d85eb3-86ad-4aa8-8faf-2560f28bae90"
+    },
+    "cjw-starter-n-1485": {
+        "node": 1485,
+        "class": "tmv_container_categories",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "veranstaltungen/tmv/kategorien",
+        "name_ger": "Kategorien",
+        "eng": "veranstaltungen/tmv/kategorien",
+        "name_eng": "Kategorien"
+    },
+    "cjw-starter-n-1499": {
+        "node": 1499,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/galerie-test/wire-2020-10-16-at-12-33-35",
+        "name_ger": "Wire 2020-10-16 at 12-33-35",
+        "eng": "beispiele-1/galerie-test/wire-2020-10-16-at-12-33-35",
+        "name_eng": "Wire 2020-10-16 at 12-33-35"
+    },
+    "cjw-starter-n-1500": {
+        "node": 1500,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/galerie-test/wire-2019-10-04-at-7_571-am",
+        "name_ger": "Wire 2019-10-04 at 7_571 AM",
+        "eng": "beispiele-1/galerie-test/wire-2019-10-04-at-7_571-am",
+        "name_eng": "Wire 2019-10-04 at 7_571 AM"
+    },
+    "cjw-starter-n-1501": {
+        "node": 1501,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/galerie-test/wire-2019-10-04-at-7_57-am",
+        "name_ger": "Wire 2019-10-04 at 7_57 AM",
+        "eng": "beispiele-1/galerie-test/wire-2019-10-04-at-7_57-am",
+        "name_eng": "Wire 2019-10-04 at 7_57 AM"
+    },
+    "cjw-starter-n-1502": {
+        "node": 1502,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/galerie-test/wire-2018-10-17-at-11_01-am",
+        "name_ger": "Wire 2018-10-17 at 11_01 AM",
+        "eng": "beispiele-1/galerie-test/wire-2018-10-17-at-11_01-am",
+        "name_eng": "Wire 2018-10-17 at 11_01 AM"
+    },
+    "cjw-starter-n-1503": {
+        "node": 1503,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/galerie-test/wire-2018-11-27-at-8_16-am",
+        "name_ger": "Wire 2018-11-27 at 8_16 AM",
+        "eng": "beispiele-1/galerie-test/wire-2018-11-27-at-8_16-am",
+        "name_eng": "Wire 2018-11-27 at 8_16 AM"
+    },
+    "cjw-starter-n-1504": {
+        "node": 1504,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/galerie-test/wire-2019-02-18-at-8_351-am",
+        "name_ger": "Wire 2019-02-18 at 8_351 AM",
+        "eng": "beispiele-1/galerie-test/wire-2019-02-18-at-8_351-am",
+        "name_eng": "Wire 2019-02-18 at 8_351 AM"
+    },
+    "cjw-starter-n-1505": {
+        "node": 1505,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/galerie-test/wire-2019-10-15-at-7_53-am",
+        "name_ger": "Wire 2019-10-15 at 7_53 AM",
+        "eng": "beispiele-1/galerie-test/wire-2019-10-15-at-7_53-am",
+        "name_eng": "Wire 2019-10-15 at 7_53 AM"
+    },
+    "cjw-starter-n-1506": {
+        "node": 1506,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/galerie-test/wire-2019-02-18-at-8_341-am",
+        "name_ger": "Wire 2019-02-18 at 8_341 AM",
+        "eng": "beispiele-1/galerie-test/wire-2019-02-18-at-8_341-am",
+        "name_eng": "Wire 2019-02-18 at 8_341 AM"
+    },
+    "cjw-starter-n-1507": {
+        "node": 1507,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/galerie-test/wire-2018-10-24-at-12_12-pm",
+        "name_ger": "Wire 2018-10-24 at 12_12 PM",
+        "eng": "beispiele-1/galerie-test/wire-2018-10-24-at-12_12-pm",
+        "name_eng": "Wire 2018-10-24 at 12_12 PM"
+    },
+    "cjw-starter-n-1508": {
+        "node": 1508,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/galerie-test/wire-2018-12-17-at-8_30-am",
+        "name_ger": "Wire 2018-12-17 at 8_30 AM",
+        "eng": "beispiele-1/galerie-test/wire-2018-12-17-at-8_30-am",
+        "name_eng": "Wire 2018-12-17 at 8_30 AM"
+    },
+    "cjw-starter-n-1509": {
+        "node": 1509,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/galerie-test/wire-2019-10-22-at-7_532-am",
+        "name_ger": "Wire 2019-10-22 at 7_532 AM",
+        "eng": "beispiele-1/galerie-test/wire-2019-10-22-at-7_532-am",
+        "name_eng": "Wire 2019-10-22 at 7_532 AM"
+    },
+    "cjw-starter-n-1510": {
+        "node": 1510,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-1/galerie-test/img_20210514_075011",
+        "name_ger": "IMG_20210514_075011",
+        "eng": "beispiele-1/galerie-test/img_20210514_075011",
+        "name_eng": "IMG_20210514_075011"
+    },
+    "cjw-starter-n-1525": {
+        "node": 1525,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/galerie-test/wire-2020-10-16-at-12-33-35",
+        "name_ger": "Wire 2020-10-16 at 12-33-35",
+        "eng": "beispiele-2/galerie-test/wire-2020-10-16-at-12-33-35",
+        "name_eng": "Wire 2020-10-16 at 12-33-35"
+    },
+    "cjw-starter-n-1526": {
+        "node": 1526,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/galerie-test/wire-2019-10-04-at-7_571-am",
+        "name_ger": "Wire 2019-10-04 at 7_571 AM",
+        "eng": "beispiele-2/galerie-test/wire-2019-10-04-at-7_571-am",
+        "name_eng": "Wire 2019-10-04 at 7_571 AM"
+    },
+    "cjw-starter-n-1527": {
+        "node": 1527,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/galerie-test/wire-2019-10-04-at-7_57-am",
+        "name_ger": "Wire 2019-10-04 at 7_57 AM",
+        "eng": "beispiele-2/galerie-test/wire-2019-10-04-at-7_57-am",
+        "name_eng": "Wire 2019-10-04 at 7_57 AM"
+    },
+    "cjw-starter-n-1528": {
+        "node": 1528,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/galerie-test/wire-2018-10-17-at-11_01-am",
+        "name_ger": "Wire 2018-10-17 at 11_01 AM",
+        "eng": "beispiele-2/galerie-test/wire-2018-10-17-at-11_01-am",
+        "name_eng": "Wire 2018-10-17 at 11_01 AM"
+    },
+    "cjw-starter-n-1529": {
+        "node": 1529,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/galerie-test/wire-2018-11-27-at-8_16-am",
+        "name_ger": "Wire 2018-11-27 at 8_16 AM",
+        "eng": "beispiele-2/galerie-test/wire-2018-11-27-at-8_16-am",
+        "name_eng": "Wire 2018-11-27 at 8_16 AM"
+    },
+    "cjw-starter-n-1530": {
+        "node": 1530,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/galerie-test/wire-2019-02-18-at-8_351-am",
+        "name_ger": "Wire 2019-02-18 at 8_351 AM",
+        "eng": "beispiele-2/galerie-test/wire-2019-02-18-at-8_351-am",
+        "name_eng": "Wire 2019-02-18 at 8_351 AM"
+    },
+    "cjw-starter-n-1531": {
+        "node": 1531,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/galerie-test/wire-2019-10-15-at-7_53-am",
+        "name_ger": "Wire 2019-10-15 at 7_53 AM",
+        "eng": "beispiele-2/galerie-test/wire-2019-10-15-at-7_53-am",
+        "name_eng": "Wire 2019-10-15 at 7_53 AM"
+    },
+    "cjw-starter-n-1532": {
+        "node": 1532,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/galerie-test/wire-2019-02-18-at-8_341-am",
+        "name_ger": "Wire 2019-02-18 at 8_341 AM",
+        "eng": "beispiele-2/galerie-test/wire-2019-02-18-at-8_341-am",
+        "name_eng": "Wire 2019-02-18 at 8_341 AM"
+    },
+    "cjw-starter-n-1533": {
+        "node": 1533,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/galerie-test/wire-2018-10-24-at-12_12-pm",
+        "name_ger": "Wire 2018-10-24 at 12_12 PM",
+        "eng": "beispiele-2/galerie-test/wire-2018-10-24-at-12_12-pm",
+        "name_eng": "Wire 2018-10-24 at 12_12 PM"
+    },
+    "cjw-starter-n-1534": {
+        "node": 1534,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/galerie-test/wire-2018-12-17-at-8_30-am",
+        "name_ger": "Wire 2018-12-17 at 8_30 AM",
+        "eng": "beispiele-2/galerie-test/wire-2018-12-17-at-8_30-am",
+        "name_eng": "Wire 2018-12-17 at 8_30 AM"
+    },
+    "cjw-starter-n-1535": {
+        "node": 1535,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/galerie-test/wire-2019-10-22-at-7_532-am",
+        "name_ger": "Wire 2019-10-22 at 7_532 AM",
+        "eng": "beispiele-2/galerie-test/wire-2019-10-22-at-7_532-am",
+        "name_eng": "Wire 2019-10-22 at 7_532 AM"
+    },
+    "cjw-starter-n-1536": {
+        "node": 1536,
+        "class": "image",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/galerie-test/img_20210514_075011",
+        "name_ger": "IMG_20210514_075011",
+        "eng": "beispiele-2/galerie-test/img_20210514_075011",
+        "name_eng": "IMG_20210514_075011"
+    },
+    "cjw-starter-n-1538": {
+        "node": 1538,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/testartikel-ordner/testartikel-1-kt",
+        "name_ger": "Testartikel 1 KT",
+        "eng": "beispiele-2/testartikel-ordner/testartikel-1-kt",
+        "name_eng": "Testartikel 1 KT"
+    },
+    "cjw-starter-n-1539": {
+        "node": 1539,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/testartikel-ordner/testartikel-2-kt",
+        "name_ger": "Testartikel 2 KT",
+        "eng": "beispiele-2/testartikel-ordner/testartikel-2-kt",
+        "name_eng": "Testartikel 2 KT"
+    },
+    "cjw-starter-n-1540": {
+        "node": 1540,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/testartikel-ordner/testartikel-3-kt",
+        "name_ger": "Testartikel 3 KT",
+        "eng": "beispiele-2/testartikel-ordner/testartikel-3-kt",
+        "name_eng": "Testartikel 3 KT"
+    },
+    "cjw-starter-n-1541": {
+        "node": 1541,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/testartikel-ordner/testartikel-4-kt",
+        "name_ger": "Testartikel 4 KT",
+        "eng": "beispiele-2/testartikel-ordner/testartikel-4-kt",
+        "name_eng": "Testartikel 4 KT"
+    },
+    "cjw-starter-n-1542": {
+        "node": 1542,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/testartikel-ordner/testartikel-5-kt",
+        "name_ger": "Testartikel 5 KT",
+        "eng": "beispiele-2/testartikel-ordner/testartikel-5-kt",
+        "name_eng": "Testartikel 5 KT"
+    },
+    "cjw-starter-n-1543": {
+        "node": 1543,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/testartikel-ordner/testartikel-6-kt",
+        "name_ger": "Testartikel 6 KT",
+        "eng": "beispiele-2/testartikel-ordner/testartikel-6-kt",
+        "name_eng": "Testartikel 6 KT"
+    },
+    "cjw-starter-n-1552": {
+        "node": 1552,
+        "class": "ng_shortcut",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/ordner/test-shortcut-1-kt",
+        "name_ger": "Test Shortcut 1 KT",
+        "eng": "beispiele-2/ordner/test-shortcut-1-kt",
+        "name_eng": "Test Shortcut 1 KT"
+    },
+    "cjw-starter-n-1553": {
+        "node": 1553,
+        "class": "ng_shortcut",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/ordner/test-shortcut-2-kt",
+        "name_ger": "Test Shortcut 2 KT",
+        "eng": "beispiele-2/ordner/test-shortcut-2-kt",
+        "name_eng": "Test Shortcut 2 KT"
+    },
+    "cjw-starter-n-1554": {
+        "node": 1554,
+        "class": "ng_shortcut",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/ordner/test-shortcut-3-kt",
+        "name_ger": "Test Shortcut 3 KT",
+        "eng": "beispiele-2/ordner/test-shortcut-3-kt",
+        "name_eng": "Test Shortcut 3 KT"
+    },
+    "cjw-starter-n-1555": {
+        "node": 1555,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/ordner/testartikel-4-kt",
+        "name_ger": "Testartikel 4 KT",
+        "eng": "beispiele-2/ordner/testartikel-4-kt",
+        "name_eng": "Testartikel 4 KT"
+    },
+    "cjw-starter-n-1556": {
+        "node": 1556,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/ordner/testartikel-5-kt",
+        "name_ger": "Testartikel 5 KT",
+        "eng": "beispiele-2/ordner/testartikel-5-kt",
+        "name_eng": "Testartikel 5 KT"
+    },
+    "cjw-starter-n-1557": {
+        "node": 1557,
+        "class": "ng_article",
+        "languages": [
+            "ger-DE"
+        ],
+        "hidden": 0,
+        "ger": "beispiele-2/ordner/testartikel-6-kt",
+        "name_ger": "Testartikel 6 KT",
+        "eng": "beispiele-2/ordner/testartikel-6-kt",
+        "name_eng": "Testartikel 6 KT"
+    }
+}

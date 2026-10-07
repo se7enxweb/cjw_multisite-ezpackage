@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:id="1399" name="Johannes Kirchberg" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="45" ezremote:published="Wed, 02 Jun 2021 14:40:51 GMT" ezremote:modified="Wed, 02 Jun 2021 14:40:51 GMT" remote_id="cjw-starter-o-1399" class_remote_id="5af75d89cc442b764b791d18caba56f8" ezremote:class_identifier="ng_news" ezremote:always_available="0" initial_language="ger-DE">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" active_version="6">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:version="6" ezremote:status="1" ezremote:created="Wed, 02 Jun 2021 14:40:51 GMT" ezremote:modified="Wed, 02 Jun 2021 14:40:51 GMT" initial_language="ger-DE">
+      <ezobject:object-translation xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" language="ger-DE" object_name="Johannes Kirchberg">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14161" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Johannes Kirchberg</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14162" ezremote:identifier="teaser_title" name="Teaser title" type="ezstring">
+          <text>Johannes Kirchberg</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14163" ezremote:identifier="authors" name="Author" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14164" ezremote:identifier="publish_date" name="Publish date" type="ezdatetime">
+          <date_time>Wed, 08 Sep 2021 09:35:00 GMT</date_time>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14165" ezremote:identifier="headline" name="Headline" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14166" ezremote:identifier="teaser_image" name="Teaser image" type="ezimage" image-file-key="cb631dd8094b451bd8feccd7d0d23cf1" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14167" ezremote:identifier="teaser_intro" name="Teaser intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Musik Kabarett "TESTSIEGER"</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14168" ezremote:identifier="image" name="Image" type="ezimage" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14169" ezremote:identifier="full_intro" name="Intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Wie immer unpolitisch korrekt, Wie immer musikalisch Und wie immer mit Johannes Kirchberg.</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Wie schneiden Sie eigentlich bei ihrem persönlichen Lebenstest ab? Wie viele Sterne haben Sie sich verdient? Wie viele Treuepunkte sind Sie wert?</line>
+            </paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:id="14170" ezremote:identifier="body" name="Body text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Unsere Anschaffungen sind vom Besten. Vom Feinsten. TESTSIEGER eben. Der Fernseher, die Instrumente, die Kaffeemaschinen, Kondome, die Autos, selbst die Frau (oder auch der Mann) ist ein Testsieger. Auch die Kinder sind vom Testsieger. Zumindest die eigenen. Aber ist denn das Beste auch immer das Beste? Oder der Beste? Ist gut immer gut oder manchmal nur geht so? Wir vergleichen: Äpfel mit Birnen, Frauen mit Männern, oben mit unten, Lieder mit Texten und heute mit gestern. Was tut man nicht alles nicht. Ist das Ding mit Macken nicht meistens auch das Ding, das uns am meisten am Herzen liegt? Ist Demokratie immer gerecht? Singen wir uns ein Lied davon. Klatschen wir uns den Rhythmus der Zeit. Stimmen Sie ab. Über das beste Lied, den besten Text, den lustigsten Witz. Was fehlt heute noch? Richtig, ein Lied, das man vor sich herpfeifen kann, wenn man sich gerade getrennt hat. In Kirchbergs neuem Programm treten Lieder gegeneinander an, neue, alte, schöne, kurze, lustige, listige. Das Publikum entscheidet, welches Lied weiterkommt. Jeder Abend ist überraschend. Jeder Abend anders. Und am Ende gibt es immer den TESTSIEGER.</paragraph>
+            <paragraph>
+              <strong>Datum/Uhrzeit:</strong>
+            </paragraph>
+            <paragraph xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+              <table class="table-striped" border="0" width="40%" custom:caption="">
+                <tr>
+                  <td>
+                    <paragraph>Mittwoch, 08. September 2021</paragraph>
+                  </td>
+                  <td>
+                    <paragraph>19:00 Uhr*</paragraph>
+                  </td>
+                </tr>
+              </table>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>Veranstaltungsort:</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Darßer Arche</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>Kategorie:</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Konzert</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>Preise:</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">ohne Kurkarte: 14,50 EURO </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">für Kurkarteninhaber: 12,00 EURO</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Kinder: 5,00 EURO</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>Reservierung &amp; Anmeldung:</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Kurverwaltung Wieck und Kurverwaltung Born</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/"><strong>Ausrichter der Veranstaltung</strong> und inhaltlich Verantwortlicher der hier wiedergegebenen Veranstaltungsinformationen:</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Kur und Tourist GmbH Darß</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Bliesenraderweg 2</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">18375 Wieck a. Darß</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Tel: 038233 - 201</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">E-Mail: wieck@darss.org</line>
+            </paragraph>
+            <paragraph>
+              <custom name="sub">*Die Veranstaltung findet unter Corona - Schutzbestimmungen statt, d.h., die Teilnehmer geben zu Beginn ihre Kontaktdaten bekannt, halten erforderlichen Abstand und führen einen Mundschutz für gegebene Situationen mit.</custom>
+            </paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14171" ezremote:identifier="location" name="Location" type="ezgmaplocation" ezgl_has_content="0"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14172" ezremote:identifier="related_content" name="Related content" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14173" ezremote:identifier="related_multimedia" name="Related multimedia items" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14174" ezremote:identifier="main_topic" name="Main topic" type="eztags">
+          <id-string/>
+          <keyword-string/>
+          <parent-string/>
+          <locale-string/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14175" ezremote:identifier="tags" name="Tags" type="eztags">
+          <id-string/>
+          <keyword-string/>
+          <parent-string/>
+          <locale-string/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14176" ezremote:identifier="sponsored_content_disclosure" name="Sponsored content disclosure" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14177" ezremote:identifier="metadata" name="Meta data" type="xrowmetadata">
+          <MetaData>
+            <title/>
+            <keywords/>
+            <description/>
+            <canonical_url/>
+            <priority/>
+            <change>daily</change>
+            <sitemap_use>1</sitemap_use>
+            <og_image/>
+            <og_image_width/>
+            <og_image_height/>
+            <og_image_alt/>
+            <og_image_type/>
+          </MetaData>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14178" ezremote:identifier="css_class" name="CSS class" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14179" ezremote:identifier="url_text" name="URL text" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-1483" name="Johannes Kirchberg" node-id="1491" remote-id="cjw-starter-n-1491" sort-field="published" sort-order="0" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

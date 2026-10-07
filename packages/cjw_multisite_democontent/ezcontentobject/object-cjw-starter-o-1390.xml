@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="1390" name="Kontaktformular" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="146" ezremote:published="Wed, 19 May 2021 13:39:52 GMT" ezremote:modified="Wed, 19 May 2021 13:41:00 GMT" remote_id="cjw-starter-o-1390" class_remote_id="cjw-starter-c-cjw_feedback_form" ezremote:class_identifier="cjw_feedback_form" ezremote:always_available="0" initial_language="ger-DE">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="2">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="2" ezremote:status="1" ezremote:created="Wed, 19 May 2021 13:40:27 GMT" ezremote:modified="Wed, 19 May 2021 13:41:00 GMT" initial_language="ger-DE">
+      <ezobject:object-translation language="ger-DE" object_name="Kontaktformular">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13981" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Kontaktformular</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13982" ezremote:identifier="teaser_title" name="Teaser title" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13983" ezremote:identifier="teaser_intro" name="Teaser intro" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13984" ezremote:identifier="full_intro" name="Intro" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13985" ezremote:identifier="body" name="Body text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph> At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13986" ezremote:identifier="recipient" name="Recipient" type="ezemail">
+          <email>nospam@exponential.earth</email>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13987" ezremote:identifier="subject" name="Subject" type="ezstring">
+          <text>Kontakt</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13988" ezremote:identifier="first_name" name="First name" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13989" ezremote:identifier="last_name" name="Last name" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13990" ezremote:identifier="email" name="E-mail" type="ezemail">
+          <email/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13991" ezremote:identifier="tel" name="Telephone" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13992" ezremote:identifier="message" name="Message" type="eztext">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13993" ezremote:identifier="confirm_privacy_policy" name="Accept privacy policy" type="ezboolean">
+          <value>0</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13994" ezremote:identifier="success_text" name="Success text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Wir haben Ihre Anfrage erhalten und werden schnellstmöglich auf SIe zukommen!</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13995" ezremote:identifier="pre_mail_text" name="E-mail intro" type="eztext">
+          <text>Vielen Dank für Ihre Anfrage.&#13;
+&#13;
+Sie erhalten hiermit eine Kopie Ihrer Anfrage</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13996" ezremote:identifier="post_mail_text" name="E-mail footer" type="eztext">
+          <text>Wir werden sie schnellstmöglich bearbeiten und auf Sie zukommen.&#13;
+&#13;
+Viele Grüße!</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13997" ezremote:identifier="recipients_cc" name="CC" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13998" ezremote:identifier="recipients_bcc" name="BCC" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-root" name="Kontaktformular" node-id="1482" remote-id="cjw-starter-n-1482" sort-field="path" sort-order="1" priority="90"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

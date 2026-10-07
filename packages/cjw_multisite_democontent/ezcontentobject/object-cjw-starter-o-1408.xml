@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="1408" name="Wire 2020-10-16 at 12-33-35" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="81" ezremote:published="Tue, 20 May 2025 15:39:04 GMT" ezremote:modified="Tue, 20 May 2025 15:39:05 GMT" remote_id="cjw-starter-o-1408" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="0" initial_language="ger-DE">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Tue, 20 May 2025 15:39:04 GMT" ezremote:modified="Tue, 20 May 2025 15:39:04 GMT" initial_language="ger-DE">
+      <ezobject:object-translation language="ger-DE" object_name="Wire 2020-10-16 at 12-33-35">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14378" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Wire 2020-10-16 at 12-33-35</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14379" ezremote:identifier="caption" name="Caption" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14380" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="8be339c33fa168dd845d8803932db217" alternative-text=""/>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-1498" name="Wire 2020-10-16 at 12-33-35" node-id="1499" remote-id="cjw-starter-n-1499" sort-field="published" sort-order="0" priority="10"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

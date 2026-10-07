@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="1333" name="HTML box test" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="37" ezremote:published="Mon, 12 Apr 2021 13:05:20 GMT" ezremote:modified="Mon, 12 Apr 2021 13:06:43 GMT" remote_id="cjw-starter-o-1333" class_remote_id="32d6c8d399ca9776f3147ef4db2bf6da" ezremote:class_identifier="ng_htmlbox" ezremote:always_available="1" initial_language="eng-US">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="2">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="2" ezremote:status="1" ezremote:created="Mon, 12 Apr 2021 13:06:32 GMT" ezremote:modified="Mon, 12 Apr 2021 13:06:43 GMT" initial_language="eng-US">
+      <ezobject:object-translation language="eng-US" object_name="HTML box test">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13528" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>HTML box test</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13529" ezremote:identifier="html_code" name="HTML code" type="eztext">
+          <text>&lt;script type="text/javascript" src="https://www.outdooractive.com/de/embed/57016134/js?mw=false"&gt;&lt;/script&gt;</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="13530" ezremote:identifier="metadata" name="Meta data" type="xrowmetadata">
+          <MetaData>
+            <title/>
+            <keywords/>
+            <description/>
+            <canonical_url/>
+            <priority/>
+            <change>daily</change>
+            <sitemap_use>1</sitemap_use>
+            <og_image/>
+            <og_image_width/>
+            <og_image_height/>
+            <og_image_alt/>
+            <og_image_type/>
+          </MetaData>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-176" name="HTML box test" node-id="1428" remote-id="cjw-starter-n-1428" sort-field="published" sort-order="0" priority="100"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

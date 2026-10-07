@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="741" name="Impressum und Kontakt" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="44" ezremote:published="Thu, 30 Jul 2020 13:06:00 GMT" ezremote:modified="Mon, 17 May 2021 13:06:23 GMT" remote_id="cjw-starter-o-741" class_remote_id="e6e3ca754beb50d1268c2d27588926cb" ezremote:class_identifier="ng_article" ezremote:always_available="0" initial_language="ger-DE">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="9">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="9" ezremote:status="1" ezremote:created="Mon, 17 May 2021 13:05:33 GMT" ezremote:modified="Mon, 17 May 2021 13:06:23 GMT" initial_language="ger-DE">
+      <ezobject:object-translation language="ger-DE" object_name="Impressum und Kontakt">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6746" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Impressum und Kontakt</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6747" ezremote:identifier="teaser_title" name="Teaser title" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="15165" ezremote:identifier="icon_title" name="Icon in der Titelzeile" type="ezimage" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6748" ezremote:identifier="authors" name="Author" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6750" ezremote:identifier="teaser_image" name="Teaser image" type="ezimage" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6751" ezremote:identifier="teaser_intro" name="Teaser intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6749" ezremote:identifier="image" name="Image" type="ezimage" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="14293" ezremote:identifier="additional_image" name="Zusätzliches Bild" type="ezimage" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6752" ezremote:identifier="full_intro" name="Intro text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6753" ezremote:identifier="body" name="Body text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>
+              <strong>Redaktion und verantwortlich für den Inhalt der Webseiten:</strong>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">JAC Example</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Straße 1234</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">18439 Stralsund</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Web: www.jac-systeme.de</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">E-Mail: <link target="_self" href="mailto:wieck@darss.org">info@jac-systeme.de</link></line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Tel.: +49 (03 831) 30 65 07</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Fax: +49 (03 831) 70 38 19</line>
+            </paragraph>
+            <paragraph>Geschäftsführer:  xxx</paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">HRB: Amtsgericht xxx</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Ust.-ID-Nr.: DE xxx xxx xxx</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>Urheberrecht und Gewährleistung:</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Alle Angaben auf der Website wurden von der Redaktion nach bestem Wissen erstellt und sorgfältig überprüft. Dennoch sind inhaltliche Fehler nicht vollständig auszuschliessen. Deshalb werden alle Angaben ohne jegliche Gewähr seitens des Herausgebers gemacht. Es kann keinerlei Haftung oder Verantwortung für inhaltliche Fehler, Satzfehler, Auslassungen, Preisangaben usw. übernommen werden. Alle Rechte bleiben vorbehalten. Es ist keine Vervielfältigung, weitere Verbreitung oder Nutzung für kommerzielle Zwecke erlaubt. Ausgenommen davon sind Mitteilungen, Informationen sowie Fotos, welche zu Download angeboten werden. Für letztere gelten gesonderte Nutzungsbedingungen.</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Alle Angebote sind freibleibend und unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.</line>
+            </paragraph>
+            <paragraph>Bei Beschwerden im Zusammenhang mit der Versicherungsvermittlung können Sie sich an den Versicherungsombudsmann e.V. (Schlichtungsstelle) wenden:</paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Versicherungsombudsmann e.V.</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Postfach 080632, 10006 Berlin</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Telefon: 0800 3696000</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Fax: 0800 3699000</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Email: beschwerde@versicherungsombudsmann.de</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">URL: www.versicherungsombudsmann.de</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>Haftung</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Wir distanzieren uns hiermit ausdrücklich von den Inhalten aller gelinkten Seiten auf unseren Webseiten.</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>Verlinkung</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Eine Verlinkung auf die Homepage www.jac-systeme.de ist ohne Rückfrage statthaft und grundsätzlich erwünscht. Darüber hinaus dürfen Links nur derart gesetzt werden, dass die Navigationsstruktur unserer Seite vollständig erhalten bleibt.</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>Fotos</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">©ars-campus, Axel Thiessenhusen</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>Design und technische Umsetzung: </strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">ars-campus, Rostock: <link href="http://www.ars-campus.de/">www.ars-campus.de</link> </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">JAC Systeme GmbH: <link target="_blank" href="http://www.jac-systeme.de/">www.jac-systeme.de</link></line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>Content-Management-System:</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">eZ Publish: <link target="_blank" href="https://www.ibexa.co/de">www.ibexa.co/de</link></line>
+            </paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6755" ezremote:identifier="related_content" name="Related content" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6756" ezremote:identifier="related_multimedia" name="Related multimedia items" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6757" ezremote:identifier="main_topic" name="Main topic" type="eztags">
+          <id-string/>
+          <keyword-string/>
+          <parent-string/>
+          <locale-string/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6758" ezremote:identifier="tags" name="Tags" type="eztags">
+          <id-string/>
+          <keyword-string/>
+          <parent-string/>
+          <locale-string/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6759" ezremote:identifier="sponsored_content_disclosure" name="Sponsored content disclosure" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6760" ezremote:identifier="metadata" name="Meta data" type="xrowmetadata">
+          <MetaData>
+            <title/>
+            <keywords/>
+            <description/>
+            <canonical_url/>
+            <priority/>
+            <change>daily</change>
+            <sitemap_use>1</sitemap_use>
+            <og_image/>
+            <og_image_width/>
+            <og_image_height/>
+            <og_image_alt/>
+            <og_image_type/>
+          </MetaData>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6761" ezremote:identifier="css_class" name="CSS class" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6762" ezremote:identifier="url_text" name="URL  text" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-root" name="Impressum und Kontakt" node-id="810" remote-id="cjw-starter-n-810" sort-field="published" sort-order="0" priority="1000"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

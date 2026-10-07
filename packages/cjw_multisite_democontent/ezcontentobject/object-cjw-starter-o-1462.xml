@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="1462" name="Test Shortcut 2 KT" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="51" ezremote:published="Mon, 04 Aug 2025 11:41:07 GMT" ezremote:modified="Wed, 06 Aug 2025 07:53:52 GMT" remote_id="cjw-starter-o-1462" class_remote_id="71f8cc283a01e33187637fc0740cbeaa" ezremote:class_identifier="ng_shortcut" ezremote:always_available="0" initial_language="ger-DE">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="21">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="21" ezremote:status="1" ezremote:created="Wed, 06 Aug 2025 07:01:14 GMT" ezremote:modified="Wed, 06 Aug 2025 07:53:52 GMT" initial_language="ger-DE">
+      <ezobject:object-translation language="ger-DE" object_name="Test Shortcut 2 KT">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="15000" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Test Shortcut 2</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="15120" ezremote:identifier="teaser_title" name="Teaser title" type="ezstring">
+          <text>Test Shortcut 2 KT</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="15139" ezremote:identifier="icon_title" name="Icon in der Titelzeile" type="ezimage" image-file-key="3954d8e33acdf8526439c5ff04b90db9" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="15004" ezremote:identifier="teaser_intro" name="Teaser intro" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="15005" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="d78d00c1bdf862ac84de6634b9bf73ba" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="15020" ezremote:identifier="use_shortcut_name" name="Use shortcut name" type="ezboolean">
+          <value>0</value>
+        </ezobject:attribute>
+        <ezobject:attribute ezremote:identifier="link" name="Link" type="ngenhancedlink">
+          <text>{"type":"internal","id":0,"remote_id":"cjw-starter-o-1430","target":"link"}</text>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-1551" name="Test Shortcut 2 KT" node-id="1553" remote-id="cjw-starter-n-1553" sort-field="published" sort-order="0" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

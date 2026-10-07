@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="63" name="Seitenverwaltung - [SITEINFO]" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="50" ezremote:published="Tue, 19 Feb 2013 13:11:07 GMT" ezremote:modified="Sat, 14 Feb 2026 12:53:51 GMT" remote_id="cjw-starter-o-63" class_remote_id="3b35160b31fcc2f9e1edb67d02ee4f08" ezremote:class_identifier="ng_site_info" ezremote:always_available="1" initial_language="ger-DE">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="69">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="69" ezremote:status="1" ezremote:created="Sat, 14 Feb 2026 12:53:28 GMT" ezremote:modified="Sat, 14 Feb 2026 12:53:51 GMT" initial_language="eng-US">
+      <ezobject:object-translation language="eng-US" object_name="Netgen Media Site - [SITEINFO]">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="231" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Exponential Media Site</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="235" ezremote:identifier="metadata" name="Meta data" type="xrowmetadata">
+          <MetaData>
+            <title/>
+            <keywords/>
+            <description/>
+            <canonical_url/>
+            <priority/>
+            <change>daily</change>
+            <sitemap_use>1</sitemap_use>
+            <og_image/>
+            <og_image_width/>
+            <og_image_height/>
+            <og_image_alt/>
+            <og_image_type/>
+          </MetaData>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2111" ezremote:identifier="site_name" name="Site name" type="ezstring">
+          <text>Exponential Media Site</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2112" ezremote:identifier="site_logo" name="Site logo" type="ezbinaryfile"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2113" ezremote:identifier="site_opengraph_image" name="Site opengraph image" type="ezimage" image-file-key="595628003c889ea31304cded558ed028" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2114" ezremote:identifier="related_cookie_policy" name="Related cookie policy" type="ezobjectrelation">
+          <related-object-remote-id>cjw-starter-o-173</related-object-remote-id>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="238" ezremote:identifier="rss_feed" name="RSS feed" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="232" ezremote:identifier="main_menu" name="Main menu items" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="233" ezremote:identifier="additional_menu" name="Additional menu items" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="234" ezremote:identifier="footer_block" name="Footer block" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>JAC Example / JAC Systeme</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Demoseite auf Basis von Exponential 6.0.15+ Site</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Seestr. 4</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">18439 Stralsund</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Telefon: +49(0)3831-306507</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Telefax: +49(0)3831-306508</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">E-Mail: info@jac-systeme.de</line>
+            </paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="236" ezremote:identifier="javascript_block_top" name="JavaScript on top" type="eztext">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="237" ezremote:identifier="javascript_block_bottom" name="JavaScript on bottom" type="eztext">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1822" ezremote:identifier="facebook" name="Facebook" type="ezurl"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1825" ezremote:identifier="twitter" name="Twitter" type="ezurl"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1828" ezremote:identifier="instagram" name="Instagram" type="ezurl"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1834" ezremote:identifier="linkedin" name="LinkedIn" type="ezurl"/>
+      </ezobject:object-translation>
+      <ezobject:object-translation language="ger-DE" object_name="Seitenverwaltung - [SITEINFO]">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2160" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Seitenverwaltung</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2161" ezremote:identifier="metadata" name="Meta data" type="xrowmetadata">
+          <MetaData>
+            <title>Meta Titel JAC Example</title>
+            <keywords/>
+            <description/>
+            <canonical_url/>
+            <priority/>
+            <change>daily</change>
+            <sitemap_use>1</sitemap_use>
+            <og_image/>
+            <og_image_width/>
+            <og_image_height/>
+            <og_image_alt/>
+            <og_image_type/>
+          </MetaData>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2162" ezremote:identifier="site_name" name="Site name" type="ezstring">
+          <text>JAC Example</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2163" ezremote:identifier="site_logo" name="Site logo" type="ezbinaryfile"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2164" ezremote:identifier="site_opengraph_image" name="Site opengraph image" type="ezimage" image-file-key="f170387be57b26074fc7f7ae1eb520d4" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2165" ezremote:identifier="related_cookie_policy" name="Related cookie policy" type="ezobjectrelation">
+          <related-object-remote-id>cjw-starter-o-173</related-object-remote-id>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2166" ezremote:identifier="rss_feed" name="RSS feed" type="ezstring">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2167" ezremote:identifier="main_menu" name="Main menu items" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list/>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2168" ezremote:identifier="additional_menu" name="Additional menu items" type="ezobjectrelationlist">
+          <related-objects>
+            <relation-list>
+              <relation-item priority="1" contentobject-remote-id="cjw-starter-o-741"/>
+              <relation-item priority="2" contentobject-remote-id="cjw-starter-o-740"/>
+            </relation-list>
+          </related-objects>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2169" ezremote:identifier="footer_block" name="Footer block" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
+                <strong>JAC Example / JAC Systeme</strong>
+              </line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Demoseite auf Basis von Exponential 6.0.15+ Site</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Seestr. 4</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">18439 Stralsund</line>
+            </paragraph>
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Telefon: +49(0)3831-306507</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Telefax: +49(0)3831-306508</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">E-Mail: info@jac-systeme.de</line>
+            </paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2170" ezremote:identifier="javascript_block_top" name="JavaScript on top" type="eztext">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2171" ezremote:identifier="javascript_block_bottom" name="JavaScript on bottom" type="eztext">
+          <text/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2172" ezremote:identifier="facebook" name="Facebook" type="ezurl"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2173" ezremote:identifier="twitter" name="Twitter" type="ezurl"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2174" ezremote:identifier="instagram" name="Instagram" type="ezurl"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2176" ezremote:identifier="linkedin" name="LinkedIn" type="ezurl"/>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="cjw-starter-n-807" name="Seitenverwaltung - [SITEINFO]" node-id="65" remote-id="cjw-starter-n-65" sort-field="path" sort-order="1" priority="1000"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content-class xmlns:ezcontentclass-attri="http://ezpublish/contentclassattribute" is-container="true" always-available="false" sort-field="path" sort-order="1">
+  <serialized-name-list>a:2:{s:6:"ger-DE";s:17:"TMV Veranstaltung";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+  <identifier>tmv_event</identifier>
+  <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+  <remote-id>cjw-starter-c-tmv_event</remote-id>
+  <object-name-pattern>&lt;title&gt;</object-name-pattern>
+  <url-alias-pattern></url-alias-pattern>
+  <remote>
+    <site-url>http://localhost/</site-url>
+    <url>http://localhost/class/view/147</url>
+    <groups>
+      <group id="10" name="TMV"/>
+    </groups>
+    <id>147</id>
+    <created>1618833506</created>
+    <modified>1618833729</modified>
+    <creator>
+      <user-id>455</user-id>
+      
+    </creator>
+    <modifier>
+      <user-id>455</user-id>
+      
+    </modifier>
+  </remote>
+  <ezcontentclass-attri:attributes xmlns:ezcontentclass-attribute="http://ezpublish/contentclassattribute">
+    <attribute datatype="ezstring" required="true" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1368</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:5:"Titel";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>title</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category></category>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>1</placement>
+      <datatype-parameters>
+        <max-length>0</max-length>
+        <default-string/>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezstring" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1369</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:10:"Untertitel";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>sub_title</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category></category>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>2</placement>
+      <datatype-parameters>
+        <max-length>0</max-length>
+        <default-string/>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezstring" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1370</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:2:"ID";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>id</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category></category>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>3</placement>
+      <datatype-parameters>
+        <max-length>0</max-length>
+        <default-string/>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezxmltext" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1371</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:10:"Intro text";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>full_intro</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category></category>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>4</placement>
+      <datatype-parameters>
+        <text-column-count>2</text-column-count>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezxmltext" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1372</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:9:"Body text";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>body</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category></category>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>5</placement>
+      <datatype-parameters>
+        <text-column-count>10</text-column-count>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezxmltext" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1373</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:7:"Kontakt";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>contact</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category></category>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>6</placement>
+      <datatype-parameters>
+        <text-column-count>5</text-column-count>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezxmltext" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1374</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:7:"Adresse";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>location</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:0:"";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category></category>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>7</placement>
+      <datatype-parameters>
+        <text-column-count>5</text-column-count>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezstring" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1375</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:3:"Ort";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>place</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:43:"Spezielle Angabe zur Verwendung als Filter.";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category></category>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>8</placement>
+      <datatype-parameters>
+        <max-length>0</max-length>
+        <default-string/>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezstring" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1376</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:8:"Latitude";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>latitude</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:40:"Spezielle Angabe für Anzeige auf Karte.";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category></category>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>9</placement>
+      <datatype-parameters>
+        <max-length>0</max-length>
+        <default-string/>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezstring" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1377</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:9:"Longitude";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>longitude</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:40:"Spezielle Angabe für Anzeige auf Karte.";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category></category>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>10</placement>
+      <datatype-parameters>
+        <max-length>0</max-length>
+        <default-string/>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezstring" required="false" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>1378</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"ger-DE";s:10:"Kategorien";s:16:"always-available";s:6:"ger-DE";}</serialized-name-list>
+      <identifier>categories</identifier>
+      <serialized-description-list>a:2:{s:6:"ger-DE";s:38:"Liste mit einzelnen IDs zur Filterung.";s:16:"always-available";s:6:"ger-DE";}</serialized-description-list>
+      <category></category>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>11</placement>
+      <datatype-parameters>
+        <max-length>0</max-length>
+        <default-string/>
+      </datatype-parameters>
+    </attribute>
+  </ezcontentclass-attri:attributes>
+</content-class>
