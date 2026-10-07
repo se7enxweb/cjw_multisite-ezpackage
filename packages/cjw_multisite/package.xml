@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="6.0.15-0"
+         development="false"
+         is_active="true"
+         install_type="import">
+  <name>cjw_multisite</name>
+  <summary>CJW Multisite</summary>
+  <description>The CJW Multisite installation package sets up Exponential with the starter site of the CJW Themes Jumper design (extension cjw_themes_jumper, design starter): the site siteaccess in English with a siteaccess for each further language (ger for German), the starter content with its layouts, and the administration (admin, editor, adminui). It installs on SQLite by default: ./console exp:install --package=cjw_multisite --languages=eng-US,ger-DE (choose German too, most of the starter content is German). Without a site title the site is called CJW JAC Exponential. The images and files of the content ship with the extension cjw_themes_jumper (share/content-images, content-files), which the installation needs in extension/.</description>
+  <vendor>7x</vendor>
+  <type value="site" />
+  <ezpublish>
+    <version>6.0.15-stable</version>
+    <named-version>6.0</named-version>
+  </ezpublish>
+  <maintainers>
+    <maintainer>
+      <name>Administrator User</name>
+      <email>nospam@se7enx.com</email>
+      <role>lead</role>
+    </maintainer>
+  </maintainers>
+  <packaging>
+    <timestamp>1791331200</timestamp>
+    <host>packages.se7enx.com</host>
+  </packaging>
+  <documents>
+    <document mime-type="text/plain"
+              name="LICENCE" />
+  </documents>
+  <changelog>
+    <entry person="Administrator User"
+           email="nospam@se7enx.com"
+           release="1">
+      <change>Creation of package.</change>
+    </entry>
+  </changelog>
+  <simple-files />
+  <files>
+    <collection name="default">
+      <file-list type="thumbnail"
+                 variable-name="thumbnail">
+        <file name="thumbnail.png"
+              md5sum="fb1745e7d2d87ac4df06bc428ba5a5f6" />
+      </file-list>
+      <file-list type="image"
+                 variable-name="image">
+        <file name="logo.png"
+              md5sum="3d6d539cee8be917cf9838c8f67a4f6c" />
+      </file-list>
+     </collection>
+  </files>
+  <version>
+    <number>6.0</number>
+    <release>15-stable</release>
+  </version>
+  <licence>GPL</licence>
+  <state>stable</state>
+  <dependencies>
+    <provides />
+    <requires>
+      <require type="ezpackage"
+               name="sevenx_classes"
+               min-version="5.1" />
+      <require type="ezpackage"
+               name="cjw_multisite_democontent"
+               min-version="5.1" />
+    </requires>
+    <obsoletes />
+    <conflicts />
+  </dependencies>
+  <settings>
+    <settings-file filename='ini-site.php'/>
+    <settings-file filename='ini-admin.php'/>
+    <settings-file filename='ini-common.php'/>
+    <settings-file filename='cjw-multi-site-installer.php'/>
+    <settings-file filename='install-scripts.php'/>
+    <settings-file filename='roles.php'/>
+    <settings-file filename='preferences.php'/>
+  </settings>
+  <install />
+  <uninstall />
+</package>
