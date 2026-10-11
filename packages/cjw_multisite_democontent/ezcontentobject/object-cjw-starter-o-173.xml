@@ -4,7 +4,7 @@
     <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="5" ezremote:status="1" ezremote:created="Tue, 11 May 2021 10:04:40 GMT" ezremote:modified="Tue, 11 May 2021 10:12:32 GMT" initial_language="ger-DE">
       <ezobject:object-translation language="eng-US" object_name="Netgen Media Site - [COOKIE POLICY]">
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2115" ezremote:identifier="title" name="Title" type="ezstring">
-          <text>Exponential Media Site</text>
+          <text>CJW JAC Exponential</text>
         </ezobject:attribute>
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2116" ezremote:identifier="ribbon_heading" name="[Ribbon] heading" type="ezstring">
           <text>This site uses cookies.</text>

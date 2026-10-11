@@ -4,7 +4,7 @@
     <ezobject:version xmlns:ezremote="http://ez.no/ezobject" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:version="28" ezremote:status="1" ezremote:created="Fri, 15 Oct 2021 06:15:27 GMT" ezremote:modified="Fri, 15 Oct 2021 06:16:33 GMT" initial_language="ger-DE">
       <ezobject:object-translation xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" language="ger-DE" object_name="Startseite">
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6339" ezremote:identifier="title" name="Title" type="ezstring">
-          <text>JAC Example - Startseite</text>
+          <text>CJW JAC Exponential - Startseite</text>
         </ezobject:attribute>
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6340" ezremote:identifier="teaser_title" name="Teaser title" type="ezstring">
           <text>Startseite</text>
@@ -31,7 +31,7 @@
         </ezobject:attribute>
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6342" ezremote:identifier="metadata" name="Meta data" type="xrowmetadata">
           <MetaData>
-            <title>Jac Example – CMS Demo Seite mit Exponential Layouts</title>
+            <title>CJW JAC Exponential – CMS Demo Seite mit Exponential Layouts</title>
             <keywords>CMS,Demo,Exponential Layout,JAC Systeme,Ibexa,eZ Platform</keywords>
             <description>Demoseite mit Exponential Layouts</description>
             <canonical_url/>

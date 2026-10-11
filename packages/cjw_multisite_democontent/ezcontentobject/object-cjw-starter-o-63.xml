@@ -4,7 +4,7 @@
     <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="69" ezremote:status="1" ezremote:created="Sat, 14 Feb 2026 12:53:28 GMT" ezremote:modified="Sat, 14 Feb 2026 12:53:51 GMT" initial_language="eng-US">
       <ezobject:object-translation language="eng-US" object_name="Netgen Media Site - [SITEINFO]">
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="231" ezremote:identifier="title" name="Title" type="ezstring">
-          <text>Exponential Media Site</text>
+          <text>CJW JAC Exponential</text>
         </ezobject:attribute>
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="235" ezremote:identifier="metadata" name="Meta data" type="xrowmetadata">
           <MetaData>
@@ -23,7 +23,7 @@
           </MetaData>
         </ezobject:attribute>
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2111" ezremote:identifier="site_name" name="Site name" type="ezstring">
-          <text>Exponential Media Site</text>
+          <text>CJW JAC Exponential</text>
         </ezobject:attribute>
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2112" ezremote:identifier="site_logo" name="Site logo" type="ezbinaryfile"/>
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2113" ezremote:identifier="site_opengraph_image" name="Site opengraph image" type="ezimage" image-file-key="595628003c889ea31304cded558ed028" alternative-text=""/>
@@ -47,7 +47,7 @@
           <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
             <paragraph>
               <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
-                <strong>JAC Example / JAC Systeme</strong>
+                <strong>CJW JAC Exponential / JAC Systeme</strong>
               </line>
               <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Demoseite auf Basis von Exponential 6.0.15+ Site</line>
             </paragraph>
@@ -79,7 +79,7 @@
         </ezobject:attribute>
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2161" ezremote:identifier="metadata" name="Meta data" type="xrowmetadata">
           <MetaData>
-            <title>Meta Titel JAC Example</title>
+            <title>Meta Titel CJW JAC Exponential</title>
             <keywords/>
             <description/>
             <canonical_url/>
@@ -94,7 +94,7 @@
           </MetaData>
         </ezobject:attribute>
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2162" ezremote:identifier="site_name" name="Site name" type="ezstring">
-          <text>JAC Example</text>
+          <text>CJW JAC Exponential</text>
         </ezobject:attribute>
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2163" ezremote:identifier="site_logo" name="Site logo" type="ezbinaryfile"/>
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2164" ezremote:identifier="site_opengraph_image" name="Site opengraph image" type="ezimage" image-file-key="f170387be57b26074fc7f7ae1eb520d4" alternative-text=""/>
@@ -121,7 +121,7 @@
           <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
             <paragraph>
               <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
-                <strong>JAC Example / JAC Systeme</strong>
+                <strong>CJW JAC Exponential / JAC Systeme</strong>
               </line>
               <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Demoseite auf Basis von Exponential 6.0.15+ Site</line>
             </paragraph>
