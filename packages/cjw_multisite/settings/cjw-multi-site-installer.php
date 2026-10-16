@@ -193,9 +193,9 @@ class cjwMultiSiteInstaller extends eZSiteInstaller
             // (a Fit & Healthy article on a Bold Agency tag page: /video/..., not /bold/fit-healthy/...);
             // configured by postInstallWriteMultisiteURLSettings() with this installation's root node ids.
             'ezurlmultisite'
-            // exp_adminui is deliberately not here: it is an access extension, switched on by the adminui
-            // siteaccess alone (ActiveAccessExtensions[], see adminUISiteaccessName()), so every other
-            // siteaccess keeps its own design.
+            // exp_adminui is deliberately not here: it is an access extension of the administration siteaccesses
+            // alone (admin, editor and adminui: ActiveAccessExtensions[], see adminAccessExtensionList() and
+            // adminUISiteaccessName()), so every other siteaccess keeps its own design.
         ) );
         $this->Settings['extension_list'] = array_values( array_filter( $this->Settings['extension_list'], function ( $extension )
         {
@@ -4746,11 +4746,17 @@ class cjwMultiSiteInstaller extends eZSiteInstaller
      * Administrator role holds its policies already and no other role is given any. Its tables come from
      * extensionSchemas(). Its cron part needs the admin siteaccess, as does expqueue's worker:
      * every five minutes, cd <installation> && php runcronjobs.php -q -s <admin siteaccess> expai
+     *
+     * exp_adminui (after expai): the UI switch's design provider offers a design only when its directory is in an
+     * active design extension, so with exp_adminui switched on in the admin and the editor (which the kernel makes
+     * from the admin's files) AdminUI is a choice of their design menu; its global settings (design.ini
+     * DesignExtensions[]) come along. It stays an access extension, never in extension_list (ActiveExtensions[]),
+     * and the admin and editor keep their own SiteDesign. It has no tables.
      */
     function adminAccessExtensionList()
     {
         $list = array();
-        foreach ( array( 'expai' ) as $extension )
+        foreach ( array( 'expai', 'exp_adminui' ) as $extension )
         {
             if ( is_dir( eZExtension::baseDirectory() . '/' . $extension ) )
                 $list[] = $extension;
