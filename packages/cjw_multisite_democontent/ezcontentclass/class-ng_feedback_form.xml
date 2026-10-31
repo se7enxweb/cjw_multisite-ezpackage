@@ -48,7 +48,7 @@
       <serialized-data-text>a:3:{s:6:"eng-US";s:0:"";s:16:"always-available";s:6:"eng-US";s:6:"ger-DE";s:0:"";}</serialized-data-text>
       <placement>2</placement>
       <datatype-parameters>
-        <max-length>60</max-length>
+        <max-length>0</max-length>
         <default-string/>
       </datatype-parameters>
     </attribute>
@@ -174,6 +174,19 @@
       <placement>11</placement>
       <datatype-parameters>
         <text-column-count>5</text-column-count>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="xrowmetadata" required="false" searchable="true" information-collector="false" translatable="true">
+      <serialized-name-list>a:2:{s:6:"eng-US";s:9:"Meta Data";s:16:"always-available";s:6:"eng-US";}</serialized-name-list>
+      <identifier>metadata</identifier>
+      <serialized-description-list>a:2:{s:6:"eng-US";s:0:"";s:16:"always-available";s:6:"eng-US";}</serialized-description-list>
+      <category>meta</category>
+      <serialized-data-text>a:0:{}</serialized-data-text>
+      <placement>12</placement>
+      <datatype-parameters>
+        <default-license>GPL-2.0-or-later</default-license>
+        <allow-object-license>true</allow-object-license>
+        <og-image-source>object</og-image-source>
       </datatype-parameters>
     </attribute>
   </ezcontentclass-attribute:attributes>

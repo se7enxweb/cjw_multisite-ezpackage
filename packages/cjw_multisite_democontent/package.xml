@@ -27,6 +27,10 @@
     <entry timestamp="1791331200" person="Administrator User" email="nospam@se7enx.com" release="1">
       <change>Creation of package.</change>
     </entry>
+    <entry timestamp="1793404800" person="7x" email="info@se7enx.com" release="2">
+      <change>Every content class carries the Meta Data attribute (metadata, xrowmetadata) in the category Meta, with the default license GPL-2.0-or-later and the Open Graph image chosen per object.</change>
+      <change>Title fields (title, name, headline, teaser title, short title and the like) have no maximum length; a longer title is not cut short.</change>
+    </entry>
   </changelog>
   <simple-files>
     <simple-file key="04800a400536499cb623fffde7f2e2e7" original-path="var/site/storage/images/jac-example/startseite/galerie-startseite/img_20210514_075011/13875-2-ger-DE/img_20210514_075011.jpg" package-path="simplefiles/2559185f95d63921.jpg" extension-path="extension/cjw_themes_jumper/share/content-images/2559185f95d63921.jpg"/>
