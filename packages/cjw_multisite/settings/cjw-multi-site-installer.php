@@ -126,7 +126,7 @@ class cjwMultiSiteInstaller extends eZSiteInstaller
             // has been active on the installation all along and was never in
             // this list, so a reinstall switched it off.
             'ezformtoken',
-            'ezwt',
+            'expwt',
             'ezstarrating',
             'ezgmaplocation',
             'ezautosave',
@@ -3233,8 +3233,8 @@ class cjwMultiSiteInstaller extends eZSiteInstaller
     function declaredExtensionSchemas()
     {
         return array(
-            array( 'ezstarrating_extension', 'ezstarrating', false ),
-            array( 'ezgmaplocation_extension', 'ezgmaplocation', false ),
+            array( 'ezstarrating', 'ezstarrating', false ),
+            array( 'ezgmaplocation', 'ezgmaplocation', false ),
             array( 'eztags', 'eztags', false ),
             array( 'explayouts', 'explayouts', false ),
             // enhancedselection2 owns sckenhancedselection, which class attributes of the ng_* classes depend on.
