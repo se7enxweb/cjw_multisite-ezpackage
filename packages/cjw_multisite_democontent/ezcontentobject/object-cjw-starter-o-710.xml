@@ -32,7 +32,7 @@
         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="6342" ezremote:identifier="metadata" name="Meta data" type="xrowmetadata">
           <MetaData>
             <title>CJW JAC Exponential – CMS Demo Seite mit Exponential Layouts</title>
-            <keywords>CMS,Demo,Exponential Layout,JAC Systeme,Ibexa,eZ Platform</keywords>
+            <keywords>CMS,Demo,Exponential Layouts,JAC Systeme,Exponential</keywords>
             <description>Demoseite mit Exponential Layouts</description>
             <canonical_url/>
             <priority/>
