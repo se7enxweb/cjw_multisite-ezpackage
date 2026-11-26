@@ -5,7 +5,7 @@
 // ## BEGIN COPYRIGHT, LICENSE AND WARRANTY NOTICE ##
 // SOFTWARE NAME: Exponential
 // SOFTWARE RELEASE: 6.0.x
-// COPYRIGHT NOTICE: Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.
+// COPYRIGHT NOTICE: Copyright (C) 1998 - 2026 Exponential Foundation and 7x; All rights reserved.
 // SOFTWARE LICENSE: GNU General Public License v2.0
 // NOTICE: >
 //   This program is free software; you can redistribute it and/or
@@ -4137,7 +4137,7 @@ class cjwMultiSiteInstaller extends eZSiteInstaller
                                 'RootNodeDepth' => $homeNodeDepth,
                                 'MetaDataArray' => array(
                                     'author' => '7x',
-                                    'copyright' => 'Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.',
+                                    'copyright' => 'Copyright (C) 1998 - 2026 Exponential Foundation and 7x; All rights reserved.',
                                     'description' => 'CJW Multisite: the starter site',
                                     'keywords' => 'exponential, starter, siteaccess'
                                 )
@@ -4454,7 +4454,7 @@ class cjwMultiSiteInstaller extends eZSiteInstaller
         $siteINI->setVariable( 'SiteSettings', 'RootNodeDepth', $this->homeNodeDepth() );
         $siteINI->setVariable( 'SiteSettings', 'MetaDataArray', array(
             'author' => '7x',
-            'copyright' => 'Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.',
+            'copyright' => 'Copyright (C) 1998 - 2026 Exponential Foundation and 7x; All rights reserved.',
             'description' => 'CJW Multisite: the starter site',
             'keywords' => 'exponential, starter, siteaccess'
         ) );
